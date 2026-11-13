@@ -1,0 +1,1074 @@
+/* ============================================================
+   SISTEMA DE EXPEDIENTES CLÍNICOS - HOSPITAL GENERAL SAN FELIPE DEL PROGRESO
+   PANTALLA DE ACCESO INSTITUCIONAL (DISEÑO WIDESCREEN REFINADO)
+   ============================================================ */
+
+/* Envoltorio General de Pantalla Completa */
+.login-unified-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  overscroll-behavior: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: #F3F7F4;
+  box-sizing: border-box;
+}
+
+/* ============================================================
+   FONDO INSTITUCIONAL (LIENZO COMPLETO)
+   ============================================================ */
+.bg-canvas-wrapper {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+  background-color: #F3F7F4;
+}
+
+/* Fotografía de la Fachada Real: Altura completa, difuminado continuo sin cortes */
+.bg-photo-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 68%;
+  height: 100%;
+  background-image: url('/hospital_fachada.jpg');
+  background-size: cover;
+  background-position: center 25%;
+  background-repeat: no-repeat;
+  filter: brightness(1.02) contrast(1.02) saturate(1.02);
+  z-index: 1;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 46%,
+    rgba(0, 0, 0, 0.42) 74%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  mask-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 46%,
+    rgba(0, 0, 0, 0.42) 74%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+/* Velo de transición suave hacia el fondo clínico derecho */
+.bg-right-soft-wash {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    transparent 38%,
+    rgba(243, 247, 244, 0.45) 54%,
+    rgba(243, 247, 244, 0.90) 70%,
+    #F3F7F4 85%
+  );
+  z-index: 2;
+}
+
+/* Curvas SVG Orgánicas Institucionales */
+.bg-wave-svg {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 66%;
+  z-index: 3;
+  pointer-events: none;
+}
+
+/* Marca de agua médica en la zona verde inferior */
+.canvas-medical-cross-green {
+  position: absolute;
+  bottom: 80px;
+  left: 17%;
+  width: 86px;
+  height: 86px;
+  opacity: 0.08;
+  z-index: 4;
+}
+
+.canvas-medical-cross-green::before,
+.canvas-medical-cross-green::after {
+  content: '';
+  position: absolute;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+}
+
+.canvas-medical-cross-green::before {
+  top: 29px;
+  left: 0;
+  width: 86px;
+  height: 28px;
+}
+
+.canvas-medical-cross-green::after {
+  top: 0;
+  left: 29px;
+  width: 28px;
+  height: 86px;
+}
+
+/* Marca de agua médica en la zona superior derecha */
+.canvas-medical-cross-light {
+  position: absolute;
+  top: 40px;
+  right: 50px;
+  width: 96px;
+  height: 96px;
+  opacity: 0.06;
+  z-index: 4;
+}
+
+.canvas-medical-cross-light::before,
+.canvas-medical-cross-light::after {
+  content: '';
+  position: absolute;
+  background-color: #087F5B;
+  border-radius: 8px;
+}
+
+.canvas-medical-cross-light::before {
+  top: 33px;
+  left: 0;
+  width: 96px;
+  height: 30px;
+}
+
+.canvas-medical-cross-light::after {
+  top: 0;
+  left: 33px;
+  width: 30px;
+  height: 96px;
+}
+
+/* ============================================================
+   ENCABEZADO SUPERIOR IZQUIERDA: CÁPSULA OFICIAL
+   ============================================================ */
+.unified-top-bar {
+  position: relative;
+  z-index: 20;
+  padding: 24px 44px 0 44px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.hero-top-logos-card {
+  background: rgba(255, 255, 255, 0.96);
+  padding: 8px 22px;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  box-shadow: 0 4px 20px rgba(0, 45, 30, 0.10);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+}
+
+.top-logo-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-logo-edomex {
+  height: 30px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.top-logos-divider {
+  width: 1px;
+  height: 24px;
+  background-color: #CBD5E1;
+}
+
+.top-logo-imss {
+  height: 25px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.top-hospital-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.top-hosp-name {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.6px;
+  color: #004D35;
+}
+
+.top-hosp-slogan {
+  font-size: 10.5px;
+  font-style: italic;
+  color: #087F5B;
+  font-weight: 500;
+}
+
+/* ============================================================
+   CONTENIDO PRINCIPAL: DISTRIBUCIÓN EQUILIBRADA
+   ============================================================ */
+.unified-main-content {
+  position: relative;
+  z-index: 10;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 16px 56px 28px 56px;
+  max-width: 1640px;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Zona Izquierda: Información Institucional sobre la onda verde */
+.unified-left-info {
+  max-width: 480px;
+  margin-left: 12px;
+  margin-bottom: 24px;
+  z-index: 10;
+}
+
+.wave-icon-box {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFFFFF;
+  margin-bottom: 14px;
+  background: rgba(255, 255, 255, 0.09);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+.wave-text-block h3 {
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 8px 0;
+  letter-spacing: -0.2px;
+}
+
+.wave-text-block p {
+  color: #E8F3EE;
+  font-size: 13.5px;
+  line-height: 1.45;
+  margin: 0 0 16px 0;
+  opacity: 0.92;
+}
+
+.wave-norm-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 14px;
+  background: rgba(0, 0, 0, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.norm-shield-icon {
+  color: #A7F3D0;
+}
+
+/* Zona Derecha: Tarjeta de Acceso Centrada y Cómoda */
+.unified-card-holder {
+  align-self: center;
+  flex-shrink: 0;
+  margin-right: 52px;
+  z-index: 15;
+}
+
+/* Tarjeta Flotante Blanca de Alta Gama */
+.clean-login-card {
+  background: #FFFFFF;
+  border-radius: 22px;
+  border: 1px solid rgba(226, 232, 240, 0.95);
+  box-shadow: 0 20px 48px -12px rgba(0, 45, 30, 0.14), 0 4px 16px rgba(0, 0, 0, 0.03);
+  padding: 34px 38px 26px 38px;
+  width: 436px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  animation: loginCardEnter 0.25s ease-out both;
+  transition: opacity 0.22s ease-out;
+}
+
+@keyframes loginCardEnter {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.clean-login-card.is-exiting {
+  opacity: 0 !important;
+  pointer-events: none;
+}
+
+/* Cabecera del Formulario con Emblema Águila */
+.card-brand-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  margin-bottom: 6px;
+}
+
+.card-medical-emblem {
+  width: 58px;
+  height: 58px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0, 77, 53, 0.12);
+  background: #FFFFFF;
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  padding: 2px;
+}
+
+.card-imss-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.card-hospital-label {
+  font-size: 12px;
+  font-weight: 800;
+  color: #004D35;
+  letter-spacing: 1.1px;
+  margin: 0;
+  line-height: 1.25;
+}
+
+.card-hospital-sublabel {
+  font-size: 11px;
+  font-weight: 700;
+  color: #087F5B;
+  letter-spacing: 0.9px;
+  margin-top: 1px;
+}
+
+/* Saludo y Propósito */
+.card-greeting-block {
+  margin-bottom: 18px;
+}
+
+.greeting-title {
+  font-size: 26px;
+  font-weight: 800;
+  color: #004D35;
+  letter-spacing: -0.4px;
+  margin: 8px 0 4px 0;
+}
+
+.greeting-subtitle {
+  font-size: 13px;
+  color: #64748B;
+  line-height: 1.45;
+  margin: 0 auto;
+  max-width: 320px;
+}
+
+/* Alerta de Error */
+.card-error-alert {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 14px;
+  background-color: #FEF2F2;
+  border: 1px solid #FCA5A5;
+  border-radius: 10px;
+  color: #991B1B;
+  font-size: 12.5px;
+  line-height: 1.4;
+  margin-bottom: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.error-icon {
+  flex-shrink: 0;
+  color: #DC2626;
+}
+
+/* Formulario e Inputs */
+.clean-form-inputs {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group-field {
+  text-align: left;
+  margin-bottom: 14px;
+  width: 100%;
+}
+
+.input-field-label {
+  display: block;
+  font-size: 13.5px;
+  font-weight: 700;
+  color: #004D35;
+  margin-bottom: 7px;
+  letter-spacing: 0.1px;
+}
+
+.clean-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background: #FFFFFF;
+  border: 1px solid #CFDFD7;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+  box-sizing: border-box;
+}
+
+.clean-input-wrapper:hover {
+  border-color: #087F5B;
+}
+
+.clean-input-wrapper:focus-within {
+  border-color: #087F5B;
+  box-shadow: 0 0 0 3px rgba(8, 127, 91, 0.14);
+  outline: none;
+}
+
+.clean-input-wrapper input {
+  width: 100%;
+  height: 44px;
+  padding: 0 16px;
+  border: none;
+  background: transparent;
+  font-size: 13.5px;
+  color: #1E293B;
+  font-family: inherit;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.clean-input-wrapper input:focus {
+  outline: none;
+}
+
+.clean-input-wrapper:has(.clean-password-toggle) input {
+  padding-right: 44px;
+}
+
+.clean-input-wrapper input::placeholder {
+  color: #94A3B8;
+  font-size: 13.5px;
+}
+
+.clean-password-toggle {
+  position: absolute;
+  right: 12px;
+  background: none;
+  border: none;
+  padding: 6px;
+  color: #64748B;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  transition: color 0.2s ease;
+  outline: none;
+}
+
+.clean-password-toggle:hover {
+  color: #004D35;
+}
+
+/* Fila de opciones: Checkbox y Recordar */
+.card-form-options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2px 0 18px 0;
+  width: 100%;
+}
+
+.clean-checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: #475569;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 500;
+}
+
+.clean-checkbox-input {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  border: 1.5px solid #CBD5E1;
+  accent-color: #004D35;
+  cursor: pointer;
+}
+
+.card-forgot-link {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 13px;
+  font-weight: 600;
+  color: #087F5B;
+  cursor: pointer;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+  font-family: inherit;
+}
+
+.card-forgot-link:hover {
+  color: #004D35;
+  text-decoration: underline;
+}
+
+/* Botón Principal de Acceso */
+.clean-btn-submit {
+  width: 100%;
+  height: 48px;
+  background: linear-gradient(135deg, #004D35 0%, #003826 100%);
+  color: #FFFFFF;
+  border: none;
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0, 77, 53, 0.28);
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.clean-btn-submit:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px rgba(0, 77, 53, 0.35);
+  filter: brightness(1.08);
+}
+
+.clean-btn-submit:active:not(:disabled) {
+  transform: translateY(0);
+  box-shadow: 0 4px 12px rgba(0, 77, 53, 0.25);
+}
+
+.clean-btn-submit:disabled {
+  opacity: 0.75;
+  cursor: not-allowed;
+}
+
+.clean-btn-submit.is-success {
+  background: linear-gradient(135deg, #059669 0%, #047857 100%) !important;
+  box-shadow: 0 8px 24px rgba(5, 150, 105, 0.42) !important;
+  color: #FFFFFF !important;
+  transform: scale(1.015);
+  opacity: 1 !important;
+}
+
+.btn-loading-state {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: #FFFFFF;
+  border-radius: 50%;
+  animation: btnSpin 0.7s linear infinite;
+}
+
+@keyframes btnSpin {
+  to { transform: rotate(360deg); }
+}
+
+/* Separador de Confidencialidad */
+.card-security-divider-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  margin-top: 22px;
+}
+
+.card-security-line {
+  flex: 1;
+  height: 1px;
+  background: #E2E8F0;
+}
+
+.card-security-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11.5px;
+  font-weight: 500;
+  color: #64748B;
+  flex-shrink: 0;
+}
+
+.card-security-badge .security-icon {
+  color: #087F5B;
+}
+
+/* ============================================================
+   BARRA INFERIOR UNIFICADA A LO ANCHO DE LA PANTALLA
+   ============================================================ */
+.unified-bottom-bar {
+  position: relative;
+  z-index: 20;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 10px 48px 20px 48px;
+  box-sizing: border-box;
+}
+
+.bottom-bar-left {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 12px;
+}
+
+.bottom-bar-divider {
+  width: 380px;
+  max-width: 100%;
+  height: 1px;
+  background: linear-gradient(
+    90deg, 
+    rgba(255, 255, 255, 0.28) 0%, 
+    rgba(255, 255, 255, 0.10) 65%, 
+    transparent 100%
+  );
+  margin-bottom: 2px;
+}
+
+.motto-content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #FFFFFF;
+  letter-spacing: 0.5px;
+  opacity: 0.95;
+}
+
+.motto-pulse-icon {
+  color: #5EEAD4;
+  stroke-width: 2.2;
+}
+
+.bottom-bar-right {
+  font-size: 12px;
+  color: #64748B;
+  font-weight: 500;
+  padding-right: 12px;
+  padding-bottom: 2px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* ============================================================
+   MODAL DE RESTABLECIMIENTO DE CREDENCIALES
+   ============================================================ */
+.forgot-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 20px;
+}
+
+.forgot-modal-box {
+  background: #FFFFFF;
+  border-radius: 18px;
+  box-shadow: 0 20px 40px rgba(0, 77, 53, 0.2);
+  width: 100%;
+  max-width: 520px;
+  overflow: hidden;
+  animation: modalIn 0.2s ease-out;
+}
+
+@keyframes modalIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.forgot-modal-header {
+  padding: 18px 22px 14px 22px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid #E2E8F0;
+  position: relative;
+}
+
+.forgot-modal-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: #E6F4EA;
+  color: #004D35;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.forgot-modal-header h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #004D35;
+  margin: 0;
+  flex: 1;
+}
+
+.forgot-modal-close {
+  background: none;
+  border: none;
+  color: #94A3B8;
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.forgot-modal-close:hover {
+  color: #0F172A;
+  background: #F1F5F9;
+}
+
+.forgot-modal-body {
+  padding: 18px 22px;
+  color: #334155;
+  font-size: 13.5px;
+  line-height: 1.5;
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
+.forgot-modal-body p {
+  margin: 0 0 12px 0;
+}
+
+.forgot-modal-info-card {
+  background: #F8FAFC;
+  border: 1px solid #E2E8F0;
+  border-left: 4px solid #004D35;
+  border-radius: 8px;
+  padding: 12px 16px;
+}
+
+.forgot-modal-info-card p {
+  margin: 0 0 4px 0;
+  color: #1E293B;
+  font-size: 13px;
+}
+
+.forgot-modal-info-card .forgot-modal-note {
+  color: #64748B;
+  font-size: 12px;
+  margin: 6px 0 0 0;
+  font-style: italic;
+}
+
+.forgot-modal-footer {
+  padding: 14px 22px 18px 22px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  border-top: 1px solid #E2E8F0;
+  background: #FAFAFA;
+}
+
+.forgot-modal-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  background: #F1F5F9;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.forgot-modal-tab-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  background: transparent;
+  color: #64748B;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  font-family: inherit;
+}
+
+.forgot-modal-tab-btn.active {
+  background: #FFFFFF;
+  color: #004D35;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.forgot-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.forgot-form-label {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: #1E293B;
+}
+
+.forgot-form-input,
+.forgot-form-textarea {
+  width: 100%;
+  padding: 9px 12px;
+  border-radius: 8px;
+  border: 1px solid #CBD5E1;
+  font-size: 13.5px;
+  color: #0F172A;
+  background: #FFFFFF;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.forgot-form-input:focus,
+.forgot-form-textarea:focus {
+  outline: none;
+  border-color: #004D35;
+  box-shadow: 0 0 0 3px rgba(0, 77, 53, 0.12);
+}
+
+.forgot-form-textarea {
+  resize: vertical;
+  min-height: 56px;
+}
+
+.forgot-alert-error {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  background: #FEF2F2;
+  border: 1px solid #FECACA;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 14px;
+  color: #991B1B;
+  font-size: 12.5px;
+  line-height: 1.4;
+}
+
+.forgot-alert-success {
+  background: #F0FDF4;
+  border: 1px solid #BBF7D0;
+  border-radius: 10px;
+  padding: 16px;
+  color: #166534;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.forgot-modal-btn {
+  background: #004D35;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 22px;
+  font-size: 13.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  font-family: inherit;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+}
+
+.forgot-modal-btn:hover:not(:disabled) {
+  background: #087F5B;
+}
+
+.forgot-modal-btn:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+.forgot-modal-btn-secondary {
+  background: #F1F5F9;
+  color: #334155;
+  border: 1px solid #E2E8F0;
+  border-radius: 8px;
+  padding: 9px 18px;
+  font-size: 13.5px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  font-family: inherit;
+}
+
+.forgot-modal-btn-secondary:hover {
+  background: #E2E8F0;
+  color: #0F172A;
+}
+
+/* ============================================================
+   RESPONSIVIDAD Y ADAPTACIÓN EN DISPOSITIVOS MÓVILES
+   ============================================================ */
+@media (max-width: 1024px) {
+  .unified-top-bar {
+    padding: 16px 20px 0 20px;
+  }
+
+  .unified-main-content {
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px;
+    gap: 30px;
+  }
+
+  .unified-card-holder {
+    margin-right: 0;
+  }
+
+  .unified-left-info {
+    margin-left: 0;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bg-photo-layer {
+    width: 100%;
+    height: 45%;
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 100%);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 100%);
+  }
+
+  .bg-wave-svg {
+    height: 45%;
+  }
+
+  .unified-bottom-bar {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    text-align: center;
+    padding: 16px 20px 20px 20px;
+  }
+
+  .bottom-bar-left {
+    align-items: center;
+    padding-left: 0;
+  }
+
+  .bottom-bar-divider {
+    margin: 0 auto;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.25) 50%, transparent 100%);
+  }
+
+  .bottom-bar-right {
+    text-align: center;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 520px) {
+  .hero-top-logos-card {
+    padding: 6px 14px;
+    gap: 10px;
+  }
+
+  .top-hosp-name {
+    display: none;
+  }
+
+  .clean-login-card {
+    width: 100%;
+    padding: 26px 20px 22px 20px;
+    border-radius: 18px;
+  }
+
+  .greeting-title {
+    font-size: 23px;
+  }
+}
+
+

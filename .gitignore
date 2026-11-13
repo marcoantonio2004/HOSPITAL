@@ -1,0 +1,42 @@
+# ============================================================
+# .gitignore - Expediente Clínico Digital
+# Hospital General San Felipe del Progreso
+# ============================================================
+
+# Dependencias de paquetes
+node_modules/
+*/node_modules/
+
+# Compilados y empaquetados de producción
+dist/
+*/dist/
+build/
+*.tsbuildinfo
+
+# Variables de entorno y credenciales sensibles (NUNCA subir a Git)
+.env
+.env.local
+.env.*.local
+*/.env
+*/.env.local
+cookies.txt
+
+# Archivos de sistema operativo y editores
+.DS_Store
+*/.DS_Store
+Thumbs.db
+Icon?
+.vscode/
+.idea/
+
+# Logs del sistema y depuración
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales o de diagnóstico local
+*.tmp
+video_test/
+scratch/

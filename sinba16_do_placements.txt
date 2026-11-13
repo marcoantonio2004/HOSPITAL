@@ -1,0 +1,128 @@
+=== PLACEMENTS FOR backend/src/assets/templates/sinba16.template.pdf (Total: 127) ===
+y=933.00, x= 48.72, w=147.00, h=47.28 | /Image82   | Near: Edo Institución
+y=931.68, x=495.72, w=65.40, h=10.68 | /Image147  | Near: FOLIO:
+y=909.84, x= 56.16, w=19.68, h= 5.40 | /Image8    | Near: NOMBRE:
+y=900.48, x=159.24, w=21.12, h= 7.44 | /Image13   | Near: Nombre(s)
+y=900.48, x=313.92, w=30.00, h= 7.44 | /Image17   | Near: Primer Apellido
+y=899.76, x=467.16, w=33.48, h= 7.44 | /Image19   | Near: Segundo Apellido
+y=873.60, x=300.24, w=16.68, h=10.68 | /Image49   | Near: DE NACIMIENTO: Día Mes
+y=873.60, x=324.72, w=16.68, h=10.68 | /Image47   | Near: Día Mes Año
+y=853.56, x=104.28, w=16.68, h=10.68 | /Image87   | Near: EDAD CUMP LIDA: Horas (en menores de 24 hrs)
+y=853.56, x=194.04, w=16.56, h=10.68 | /Image72   | Near: Días (en menores de 30
+y=853.56, x=283.80, w=16.68, h=10.68 | /Image72   | Near: menores de 30 días) Meses (en menores
+y=853.56, x=373.20, w=24.84, h=10.56 | /Image51   | Near: (en menores de 1 añ o) Años
+y=853.32, x=462.96, w= 8.64, h=10.92 | /Image45   | Near: (1 año y más) SEXO: 1
+y=853.32, x=495.60, w= 8.52, h=10.92 | /Image45   | Near: SEXO: 1 Hombre 2 Mujer 3
+y=837.72, x=145.08, w= 8.52, h=10.80 | /Image45   | Near: SERVICIOS DE SALUD: 0 No especificado
+y=837.72, x=194.04, w= 8.52, h=10.80 | /Image55   | Near: 0 No especificado 1 Ninguna 2
+y=837.72, x=226.80, w= 8.16, h=10.80 | /Image53   | Near: 1 Ninguna 2 IMSS 3 ISSSTE
+y=837.72, x=259.20, w= 8.52, h=10.80 | /Image55   | Near: Ninguna 2 IMSS 3 ISSSTE 4
+y=837.72, x=291.72, w= 8.64, h=10.80 | /Image55   | Near: IMSS 3 ISSSTE 4 PEMEX 5
+y=837.72, x=324.48, w= 8.52, h=10.80 | /Image45   | Near: ISSSTE 4 PEMEX 5 SEDENA 6
+y=837.72, x=422.16, w= 8.64, h=10.92 | /Image58   | Near: SEMAR 8 Otra 11 ISSFAM 14
+y=837.72, x=462.96, w= 8.64, h=10.92 | /Image45   | Near: 11 ISSFAM 14 OPD IMSS Bienestar
+y=837.60, x=356.88, w= 8.64, h=10.92 | /Image45   | Near: PEMEX 5 SEDENA 6 SEMAR 8
+y=837.60, x=389.52, w= 8.52, h=10.92 | /Image45   | Near: SEDENA 6 SEMAR 8 Otra 11
+y=822.84, x= 87.96, w= 8.52, h=10.80 | /Image80   | Near: GRATUIDAD: 1 Sí 2 No
+y=808.08, x=153.36, w=142.92, h= 0.36 | /Image89   | Near: FEDERATIVA/PAÍS:
+y=808.08, x=398.16, w=127.08, h= 0.36 | /Image57   | Near: 
+y=806.52, x=306.36, w=16.80, h= 6.48 | /Image90   | Near: MUNICIPIO O ALCALDÍA:
+y=782.40, x=316.56, w=24.00, h= 0.36 | /Image92   | Near: NÚM. EXT.: NÚM. INT.:
+y=782.40, x=373.80, w=23.40, h= 0.36 | /Image92   | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y=782.04, x=153.72, w=130.68, h= 0.36 | /Image57   | Near: DE LA VIALIDAD:
+y=755.40, x=414.36, w= 8.64, h= 6.60 | /Image60   | Near: AFROMEXICANO? 1 Sí 2 No de
+y=755.28, x=136.92, w= 8.64, h= 6.72 | /Image60   | Near: INDÍGENA? 1 Sí 2 No de
+y=755.28, x=169.56, w= 8.52, h= 6.72 | /Image60   | Near: 1 Sí 2 No sean hijos
+y=739.56, x=136.92, w= 8.52, h= 5.64 | /Image62   | Near: RETORNADO? 1 Sí 2 No nacionalidad
+y=723.72, x=194.04, w= 8.52, h= 5.64 | /Image64   | Near: COMUNIDAD LGBT+? 1 Sí 2 No
+y=723.72, x=226.68, w= 8.52, h= 5.64 | /Image64   | Near: 1 Sí 2 No 3 Prefiere
+y=723.72, x=259.32, w= 8.52, h= 5.64 | /Image64   | Near: Sí 2 No 3 Prefiere no
+y=723.72, x=390.00, w= 8.40, h= 5.64 | /Image62   | Near: ¿CÓMO SE IDENTIFICA? 1 Mujer trans
+y=723.72, x=447.12, w= 8.52, h= 5.64 | /Image62   | Near: 1 Mujer trans 2 Hombre trans
+y=713.28, x=390.00, w= 8.40, h= 5.52 | /Image62   | Near: 4 Lesbiana
+y=713.28, x=447.12, w= 8.52, h= 5.52 | /Image62   | Near: 4 Lesbiana 5 Gay
+y=692.52, x=145.08, w= 8.52, h=10.68 | /Image66   | Near: 1 Sí 2 No TIEMPO
+y=692.40, x=251.16, w=16.80, h=10.68 | /Image47   | Near: TIEMPO DE TRASLADO: : HH MM
+y=692.40, x=275.64, w=16.80, h=10.68 | /Image49   | Near: TRASLADO: : HH MM
+y=692.40, x=414.36, w=16.80, h=10.68 | /Image68   | Near: DE INGRESO: Día Mes
+y=692.40, x=438.96, w=16.68, h=10.68 | /Image47   | Near: Día Mes Año
+y=692.40, x=503.88, w=16.80, h=10.68 | /Image47   | Near: : Año HH MM
+y=672.24, x=112.44, w= 8.64, h=10.80 | /Image45   | Near: TIPO DE URGENCIA: 1 Urgencia calificada
+y=657.36, x=226.68, w= 8.64, h=10.92 | /Image55   | Near: y violencia 2 Médica 3 Gineco
+y=657.36, x=267.48, w= 8.64, h=10.92 | /Image45   | Near: 2 Médica 3 Gineco - obstétrica
+y=657.36, x=324.60, w= 8.64, h=10.92 | /Image45   | Near: 3 Gineco - obstétrica 4 Pediátrica
+y=657.36, x=406.20, w= 8.64, h=10.92 | /Image45   | Near: TIPO DE CAMA: 1 Cama de
+y=657.24, x=120.60, w= 8.52, h=10.92 | /Image55   | Near: DE ATENCIÓN: 1 Accidente, envenenamiento y
+y=657.24, x=471.00, w= 8.64, h=10.92 | /Image55   | Near: Cama de observación 2 Cama d
+y=639.96, x=128.76, w= 8.52, h=10.92 | /Image70   | Near: TRANSITORIO: 1 Sí 2 No NOMBRE
+y=625.32, x=128.76, w=16.68, h=10.68 | /Image78   | Near: Y HORA DE ALTA: Día Mes
+y=625.32, x=153.24, w=16.68, h=10.68 | /Image72   | Near: Día Mes Año
+y=625.32, x=218.64, w=16.56, h=10.68 | /Image72   | Near: : Año HH MM
+y=604.56, x=120.60, w= 8.40, h=10.80 | /Image76   | Near: POR (ENVIADO A): 1 Hospitalización 2
+y=604.56, x=169.56, w= 8.40, h=10.80 | /Image74   | Near: 1 Hospitalización 2 Consulta externa
+y=604.56, x=226.56, w= 8.40, h=10.68 | /Image76   | Near: 2 Consulta externa 3 Traslado a
+y=574.56, x=120.60, w= 8.52, h=10.80 | /Image80   | Near: 4 Domicilio 5 Defunción
+y=574.56, x=161.40, w= 8.52, h=10.80 | /Image70   | Near: 4 Domicilio 5 Defunción MINISTERIO
+y=574.56, x=283.80, w= 8.64, h=10.80 | /Image70   | Near: PÚBLICO: 1 Sí 2 No FOLIO
+y=558.12, x=120.60, w= 8.52, h=10.80 | /Image55   | Near: 6 Fuga 7 Voluntad
+y=538.92, x=136.92, w= 8.64, h=10.92 | /Image45   | Near: EDAD FÉRTIL: 1 Embarazo
+y=538.92, x=234.84, w= 8.64, h=10.92 | /Image45   | Near: 2 Puerperio (de 0 a 42
+y=533.28, x= 42.36, w=527.28, h=387.12 | /Image5    | Near: 
+y=516.36, x= 74.76, w=44.28, h= 7.44 | /Image23   | Near: AFECCIÓN PRINCIPAL:
+y=424.08, x= 71.40, w= 6.48, h=73.32 | /Image27   | Near: COMORBILIDADES
+y=413.28, x=467.88, w=41.28, h= 7.44 | /Image29   | Near: 
+y=400.20, x= 79.56, w=202.92, h= 7.44 | /Image31   | Near: 
+y=378.72, x= 79.56, w=124.44, h= 7.44 | /Image33   | Near: 
+y=378.72, x=236.16, w= 5.88, h= 7.44 | /Image35   | Near: Sí 2
+y=378.48, x=259.68, w= 7.68, h= 7.44 | /Image37   | Near: Sí 2
+y=378.48, x=295.08, w=65.88, h= 7.44 | /Image39   | Near: Sí 2
+y=376.68, x=251.16, w= 7.80, h=10.08 | /Image41   | Near: Sí 2
+y=373.32, x= 41.88, w=519.60, h=152.64 | /Image21   | Near: 
+y=362.64, x=218.76, w=66.36, h= 7.44 | /Image127  | Near: 1
+y=362.40, x= 89.76, w=29.40, h= 7.44 | /Image125  | Near: 
+y=355.20, x=423.00, w=15.96, h= 7.44 | /Image129  | Near: Cédula:
+y=342.84, x= 71.40, w= 6.48, h= 7.44 | /Image131  | Near: 
+y=334.56, x=224.52, w=21.12, h= 7.44 | /Image13   | Near: Nombre(s)
+y=334.56, x=297.60, w=30.00, h= 7.44 | /Image17   | Near: Primer Apellido
+y=334.56, x=365.16, w=33.48, h= 7.44 | /Image19   | Near: Segundo Apellido Cédula:
+y=334.56, x=481.92, w=12.24, h= 7.44 | /Image133  | Near: CURP Cédula:
+y=327.36, x=423.00, w=15.96, h= 7.44 | /Image129  | Near: Cédula:
+y=315.00, x= 71.40, w= 6.48, h= 7.44 | /Image131  | Near: 
+y=306.84, x=224.52, w=21.12, h= 7.32 | /Image135  | Near: Nombre(s)
+y=306.84, x=297.60, w=30.00, h= 7.32 | /Image137  | Near: Primer Apellido
+y=306.84, x=365.16, w=33.48, h= 7.32 | /Image139  | Near: Segundo Apellido Cédula:
+y=306.84, x=481.92, w=12.24, h= 7.32 | /Image141  | Near: CURP Cédula:
+y=299.64, x=423.00, w=15.96, h= 7.32 | /Image143  | Near: Cédula:
+y=287.16, x= 71.40, w= 6.48, h= 7.44 | /Image131  | Near: INTERCONSULTA
+y=278.88, x=224.52, w=21.12, h= 7.44 | /Image13   | Near: Nombre(s)
+y=278.88, x=297.60, w=30.00, h= 7.44 | /Image17   | Near: Primer Apellido
+y=278.88, x=365.16, w=33.48, h= 7.44 | /Image19   | Near: Segundo Apellido
+y=278.64, x=481.92, w=12.24, h= 7.44 | /Image133  | Near: CURP
+y=277.92, x= 42.36, w=527.28, h=91.20 | /Image123  | Near: NINGUNA
+y=257.88, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: 
+y=243.24, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: 
+y=228.60, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: 
+y=213.96, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: 
+y=199.32, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: PROCEDIMIENTOS
+y=191.88, x= 42.36, w=519.12, h=78.12 | /Image145  | Near: PROCEDIMIENTOS
+y=170.40, x=480.60, w=48.48, h= 5.40 | /Image107  | Near: 
+y=169.68, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: 
+y=156.48, x= 56.16, w= 4.44, h= 5.40 | /Image105  | Near: 
+y=156.48, x=447.96, w=10.08, h= 5.40 | /Image109  | Near: 
+y=151.80, x=527.52, w=11.04, h=12.24 | /Image111  | Near: Plan A B C
+y=142.20, x= 56.16, w=504.60, h= 7.68 | /Image113  | Near: 3.
+y=129.24, x=521.40, w=39.36, h= 7.44 | /Image119  | Near: antibiótico
+y=129.00, x= 55.20, w= 6.36, h= 7.44 | /Image115  | Near: SUMINISTRADOS
+y=129.00, x=449.16, w=36.72, h= 7.68 | /Image117  | Near: 2 Con antibiótico
+y=113.04, x= 55.20, w= 6.36, h= 7.44 | /Image115  | Near: 
+y=113.04, x=449.16, w=27.00, h= 7.44 | /Image121  | Near: 3 Antivirales
+y= 98.40, x= 55.20, w= 6.36, h= 7.44 | /Image115  | Near: 
+y= 94.80, x= 42.36, w=527.28, h=85.56 | /Image103  | Near: MEDICAMENTOS
+y= 63.00, x= 56.16, w=85.08, h=18.60 | /Image95   | Near: NOMBRE:
+y= 53.76, x=142.92, w=21.12, h= 7.44 | /Image13   | Near: Nombre(s)
+y= 53.76, x=309.84, w=30.00, h= 7.44 | /Image17   | Near: Primer Apellido
+y= 53.76, x=471.24, w=33.48, h= 7.44 | /Image19   | Near: Segundo Apellido
+y= 42.12, x=242.88, w=48.48, h= 7.32 | /Image99   | Near: 
+y= 41.88, x= 55.20, w=19.08, h= 7.32 | /Image97   | Near: C.U.R.P.:
+y= 41.88, x=414.24, w=16.92, h= 7.32 | /Image101  | Near: FIRMA:
+y= 37.92, x= 42.36, w=527.28, h=47.88 | /Image93   | Near: C.U.R.P.:

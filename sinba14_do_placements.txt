@@ -1,0 +1,25 @@
+=== PLACEMENTS FOR backend/src/assets/templates/sinba14.template.pdf (Total: 24) ===
+y=952.80, x= 46.68, w=73.68, h=23.64 | /Image51   | Near: 
+y=933.24, x= 74.76, w=22.44, h= 6.36 | /Image5    | Near: CLUES: M       C              I       M     B             0       0     4     6    9           4 Edo Institución
+y=933.24, x=107.88, w=29.16, h= 6.36 | /Image8    | Near: CLUES: M       C              I       M     B             0       0     4     6    9           4 Edo Institución Consecutivo
+y=933.24, x=146.28, w=45.00, h= 6.36 | /Image10   | Near: Institución Consecutivo Ver
+y=933.24, x=198.84, w= 8.28, h= 6.36 | /Image12   | Near: Consecutivo Ver
+y=933.24, x=501.00, w=63.60, h= 6.36 | /Image47   | Near: FOLIO:
+y=912.84, x= 74.88, w=476.04, h= 0.36 | /Image14   | Near: NOMBRE:
+y=899.40, x=469.44, w=92.52, h= 0.36 | /Image15   | Near: O PAÍS DE NACIMIENTO:
+y=846.24, x=445.56, w=100.32, h= 0.36 | /Image31   | Near: ESTADO CONYUGAL: Personas mayores de 8
+y=845.76, x=443.76, w=100.32, h= 0.24 | /Image31   | Near: ESTADO CONYUGAL: Personas mayores de 8
+y=813.60, x=453.60, w=107.88, h= 0.36 | /Image16   | Near: TIPO DE LA VIALIDAD:
+y=802.56, x=461.52, w=100.20, h= 0.36 | /Image31   | Near: TIPO DE ASENTAMIENTO:
+y=774.84, x=453.60, w=107.88, h= 0.36 | /Image16   | Near: Especifique No ¿CUÁL?
+y=631.44, x=485.28, w=77.16, h= 0.36 | /Image32   | Near: patológico 5 Otro Especifique
+y=573.72, x=529.92, w=23.40, h= 5.28 | /Image35   | Near: CÓDIGO CIE
+y=475.44, x=375.00, w=38.04, h= 5.28 | /Image37   | Near: 
+y=474.00, x=457.56, w=34.20, h= 7.20 | /Image39   | Near: 
+y=452.52, x=365.40, w=199.20, h=130.80 | /Image33   | Near: 
+y=328.80, x=516.84, w=47.76, h=111.72 | /Image43   | Near: 2 Para
+y=328.80, x=516.96, w=47.64, h=111.72 | /Image45   | Near: 2 Para
+y= 74.64, x= 85.92, w=465.48, h= 0.36 | /Image49   | Near: NOMBRE:
+y= 59.52, x=437.64, w=123.48, h= 0.24 | /Image50   | Near: FIRMA:
+y= 51.12, x= 40.32, w=11.16, h=873.00 | /Image41   | Near: 
+y= 50.04, x= 50.76, w=520.32, h=874.44 | /Image54   | Near: 

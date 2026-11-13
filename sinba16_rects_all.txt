@@ -1,0 +1,1982 @@
+=== RECTANGLES FOR backend/src/assets/templates/sinba16.template.pdf (Total: 1981) ===
+y= 909.8, x=  56.0, w= 19.8, h=  5.5 | Near: NOMBRE:
+y= 909.8, x=  56.0, w= 19.8, h=  5.5 | Near: NOMBRE:
+y= 900.4, x= 159.2, w= 21.2, h=  7.6 | Near: Nombre(s)
+y= 900.4, x= 159.2, w= 21.2, h=  7.6 | Near: Nombre(s)
+y= 900.4, x= 313.9, w= 30.1, h=  7.6 | Near: Primer Apellido
+y= 900.4, x= 313.9, w= 30.1, h=  7.6 | Near: Primer Apellido
+y= 899.6, x= 467.0, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y= 899.6, x= 467.0, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y= 899.6, x= 467.0, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y= 899.6, x= 467.0, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y= 874.1, x=  55.4, w= 24.3, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  55.4, w= 24.3, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  55.4, w= 24.3, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  55.4, w= 24.3, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  55.4, w= 24.3, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  79.7, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  80.2, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  80.2, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  87.9, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  88.3, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  88.3, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  96.0, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  96.5, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x=  96.5, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 104.2, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 104.7, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 104.7, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 112.3, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 112.8, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 112.8, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 120.5, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 121.0, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 121.0, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 128.7, w=  0.5, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 129.1, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 129.1, w=  7.7, h= 10.2 | Near: C.U.R.P. :
+y= 874.1, x= 136.8, w=  0.5, h= 10.2 | Near: :
+y= 874.1, x= 137.3, w=  7.6, h= 10.2 | Near: :
+y= 874.1, x= 137.3, w=  7.6, h= 10.2 | Near: :
+y= 874.1, x= 145.0, w=  0.5, h= 10.2 | Near: :
+y= 874.1, x= 145.5, w=  7.6, h= 10.2 | Near: :
+y= 874.1, x= 145.5, w=  7.6, h= 10.2 | Near: :
+y= 874.1, x= 153.1, w=  0.5, h= 10.2 | Near: 
+y= 874.1, x= 153.6, w=  7.6, h= 10.2 | Near: 
+y= 874.1, x= 153.6, w=  7.6, h= 10.2 | Near: 
+y= 874.1, x= 161.2, w=  0.5, h= 10.2 | Near: FECHA
+y= 874.1, x= 161.7, w=  7.7, h= 10.2 | Near: FECHA
+y= 874.1, x= 161.7, w=  7.7, h= 10.2 | Near: FECHA
+y= 874.1, x= 169.3, w=  0.5, h= 10.2 | Near: FECHA
+y= 874.1, x= 169.8, w=  7.7, h= 10.2 | Near: FECHA DE
+y= 874.1, x= 169.8, w=  7.7, h= 10.2 | Near: FECHA DE
+y= 874.1, x= 177.5, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 178.0, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 178.0, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 185.7, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 186.1, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 186.1, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 193.8, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 194.3, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 194.3, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 202.0, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 202.5, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 202.5, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 210.2, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 210.7, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 210.7, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 218.3, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 218.8, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 218.8, w=  7.7, h= 10.2 | Near: FECHA DE NACIMIENTO:
+y= 874.1, x= 226.5, w=  0.5, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 227.0, w=121.8, h= 10.2 | Near: FECHA DE NACIMIENTO: Día
+y= 874.1, x= 348.8, w=  0.5, h= 10.2 | Near: ENTIDAD O PAÍS DE Día
+y= 874.1, x= 349.3, w=  7.7, h= 10.2 | Near: ENTIDAD O PAÍS DE Día
+y= 874.1, x= 349.3, w=  7.7, h= 10.2 | Near: ENTIDAD O PAÍS DE Día
+y= 874.1, x= 356.9, w=  0.5, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 357.4, w=  7.7, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 357.4, w=  7.7, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 365.1, w=  0.5, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 365.6, w=  7.7, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 365.6, w=  7.7, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 373.3, w=  0.5, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 373.8, w=  7.6, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 373.8, w=  7.6, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.4, w=  0.5, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 381.9, w=186.9, h= 10.2 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 874.1, x= 568.8, w=  0.7, h= 10.2 | Near: 
+y= 873.6, x=  79.7, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  79.7, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  80.2, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  80.7, w=  7.2, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  87.9, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  88.3, w=  7.7, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  96.0, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x=  96.5, w=  7.7, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 104.2, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 104.7, w=  7.7, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 112.3, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 112.8, w=  7.7, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 120.5, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 121.0, w=  7.7, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 128.7, w=  0.5, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 129.1, w=  7.7, h=  0.5 | Near: C.U.R.P. :
+y= 873.6, x= 136.8, w=  0.5, h=  0.5 | Near: :
+y= 873.6, x= 137.3, w=  7.7, h=  0.5 | Near: :
+y= 873.6, x= 145.0, w=  0.5, h=  0.5 | Near: :
+y= 873.6, x= 145.5, w=  7.7, h=  0.5 | Near: :
+y= 873.6, x= 153.1, w=  0.5, h=  0.5 | Near: 
+y= 873.6, x= 153.6, w=  7.6, h=  0.5 | Near: 
+y= 873.6, x= 161.2, w=  0.5, h=  0.5 | Near: FECHA
+y= 873.6, x= 161.7, w=  7.7, h=  0.5 | Near: FECHA
+y= 873.6, x= 169.3, w=  0.5, h=  0.5 | Near: FECHA
+y= 873.6, x= 169.8, w=  7.7, h=  0.5 | Near: FECHA DE
+y= 873.6, x= 177.5, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 178.0, w=  7.7, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 185.7, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 186.1, w=  7.7, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 193.8, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 194.3, w=  7.7, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 202.0, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 202.5, w=  7.7, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 210.2, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 210.7, w=  7.7, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 218.3, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 218.8, w=  7.7, h=  0.5 | Near: FECHA DE NACIMIENTO:
+y= 873.6, x= 226.5, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO: Día
+y= 873.6, x= 226.5, w=  0.5, h=  0.5 | Near: FECHA DE NACIMIENTO: Día
+y= 873.6, x= 348.8, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE Día
+y= 873.6, x= 348.8, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE Día
+y= 873.6, x= 349.3, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE Día
+y= 873.6, x= 349.8, w=  7.2, h=  0.5 | Near: ENTIDAD O PAÍS DE Día
+y= 873.6, x= 356.9, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 357.4, w=  7.7, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 365.1, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 365.6, w=  7.7, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 373.3, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 373.8, w=  7.7, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 381.4, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 381.4, w=  0.5, h=  0.5 | Near: ENTIDAD O PAÍS DE NACIMIENTO:
+y= 873.6, x= 568.8, w=  0.7, h=  0.5 | Near: 
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  55.4, w= 24.5, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x=  79.9, w=146.8, h= 40.1 | Near: GRATUIDAD: 1 Sí 2 No
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 226.7, w=122.3, h= 40.1 | Near: NÚM. AFILIACIÓN:
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 349.0, w= 32.6, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 381.7, w=187.1, h= 40.1 | Near: 
+y= 833.5, x= 568.8, w=  0.7, h= 40.1 | Near: 
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x=  55.4, w=171.1, h= 10.2 | Near: GRATUIDAD: 1 Sí 2 No
+y= 823.3, x= 226.5, w=  0.5, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 227.0, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 227.0, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 234.7, w=  0.5, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 235.1, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 235.1, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 242.8, w=  0.5, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 243.3, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 243.3, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 251.0, w=  0.5, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 251.4, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 251.4, w=  7.7, h= 10.2 | Near: NÚM. AFILIACIÓN:
+y= 823.3, x= 259.1, w=  0.5, h= 10.2 | Near: AFILIACIÓN:
+y= 823.3, x= 259.6, w=  7.7, h= 10.2 | Near: AFILIACIÓN:
+y= 823.3, x= 259.6, w=  7.7, h= 10.2 | Near: AFILIACIÓN:
+y= 823.3, x= 267.3, w=  0.5, h= 10.2 | Near: AFILIACIÓN:
+y= 823.3, x= 267.8, w=  7.7, h= 10.2 | Near: AFILIACIÓN:
+y= 823.3, x= 267.8, w=  7.7, h= 10.2 | Near: AFILIACIÓN:
+y= 823.3, x= 275.4, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 275.9, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 275.9, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 283.6, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 284.1, w=  7.6, h= 10.2 | Near: 
+y= 823.3, x= 284.1, w=  7.6, h= 10.2 | Near: 
+y= 823.3, x= 291.8, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 292.2, w=  7.6, h= 10.2 | Near: 
+y= 823.3, x= 292.2, w=  7.6, h= 10.2 | Near: 
+y= 823.3, x= 299.8, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 300.4, w=  7.6, h= 10.2 | Near: 
+y= 823.3, x= 300.4, w=  7.6, h= 10.2 | Near: 
+y= 823.3, x= 308.0, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 308.4, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 308.4, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 316.1, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 316.6, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 316.6, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 324.3, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 324.8, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 324.8, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 332.5, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 332.9, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 332.9, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 340.6, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 341.1, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 341.1, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 348.8, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 349.3, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 349.3, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 356.9, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 357.4, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 357.4, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 365.1, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 365.6, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 365.6, w=  7.7, h= 10.2 | Near: 
+y= 823.3, x= 373.3, w=  0.5, h= 10.2 | Near: 
+y= 823.3, x= 373.8, w=195.0, h= 10.2 | Near: 
+y= 823.3, x= 373.8, w=195.0, h= 10.2 | Near: 
+y= 823.3, x= 568.8, w=  0.7, h= 10.2 | Near: 
+y= 822.8, x= 226.5, w=  0.5, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 226.5, w=  0.5, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 227.0, w=  7.7, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 234.7, w=  0.5, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 235.1, w=  7.7, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 242.8, w=  0.5, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 243.3, w=  7.7, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 251.0, w=  0.5, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 251.4, w=  7.7, h=  0.5 | Near: NÚM. AFILIACIÓN:
+y= 822.8, x= 259.1, w=  0.5, h=  0.5 | Near: AFILIACIÓN:
+y= 822.8, x= 259.6, w=  7.7, h=  0.5 | Near: AFILIACIÓN:
+y= 822.8, x= 267.3, w=  0.5, h=  0.5 | Near: AFILIACIÓN:
+y= 822.8, x= 267.8, w=  7.7, h=  0.5 | Near: AFILIACIÓN:
+y= 822.8, x= 275.4, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 275.9, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 283.6, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 284.1, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 291.8, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 292.2, w=  7.6, h=  0.5 | Near: 
+y= 822.8, x= 299.8, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 300.3, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 308.0, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 308.4, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 316.1, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 316.6, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 324.3, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 324.8, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 332.5, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 332.9, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 340.6, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 341.1, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 348.8, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 349.3, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 356.9, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 357.4, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 365.1, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 365.6, w=  7.7, h=  0.5 | Near: 
+y= 822.8, x= 373.3, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 373.3, w=  0.5, h=  0.5 | Near: 
+y= 822.8, x= 568.8, w=  0.7, h=  0.5 | Near: 
+y= 818.3, x=  55.4, w=513.3, h=  4.6 | Near: 
+y= 818.3, x=  55.4, w=513.3, h=  4.6 | Near: 
+y= 818.3, x= 568.8, w=  0.7, h=  4.6 | Near: 
+y= 817.5, x=  55.4, w= 16.0, h=  0.7 | Near: 
+y= 817.5, x=  71.4, w=  0.7, h=  0.7 | Near: 
+y= 817.5, x=  72.1, w=496.6, h=  0.7 | Near: 
+y= 817.5, x= 568.8, w=  0.7, h=  0.7 | Near: 
+y= 800.9, x=  72.1, w=496.4, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.4, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.4, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  71.4, w=  0.7, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x=  72.1, w=496.5, h= 16.7 | Near: ENTIDAD FEDERATIVA/PAÍS: LOCALIDAD:
+y= 800.9, x= 568.8, w=  0.7, h= 16.7 | Near: 
+y= 800.1, x=  71.4, w=  0.7, h=  0.7 | Near: LOCALIDAD:
+y= 800.1, x= 267.3, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL:
+y= 800.1, x= 275.4, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL:
+y= 800.1, x= 283.6, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL:
+y= 800.1, x= 291.8, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL:
+y= 800.1, x= 299.8, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL:
+y= 800.1, x= 356.9, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 800.1, x= 365.1, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 800.1, x= 373.3, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 800.1, x= 381.4, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 800.1, x= 389.6, w=  0.5, h=  0.7 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 800.1, x= 397.6, w=  0.5, h=  0.7 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 800.1, x= 568.8, w=  0.7, h=  0.7 | Near: 
+y= 794.6, x=  71.4, w=  0.7, h=  5.5 | Near: LOCALIDAD:
+y= 794.6, x=  72.1, w=195.1, h=  5.5 | Near: LOCALIDAD:
+y= 794.6, x=  72.1, w=195.1, h=  5.5 | Near: LOCALIDAD:
+y= 794.6, x=  72.1, w=195.1, h=  5.5 | Near: LOCALIDAD:
+y= 794.6, x= 267.3, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 267.8, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 267.8, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 275.4, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 275.9, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 275.9, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 283.6, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 284.1, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 284.1, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 291.8, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 292.2, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 292.2, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 299.8, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 300.4, w= 56.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 300.4, w= 56.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 300.4, w= 56.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 300.4, w= 56.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 300.4, w= 56.5, h=  5.5 | Near: CÓDIGO POSTAL:
+y= 794.6, x= 356.9, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 357.4, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 357.4, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 365.1, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 365.6, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 365.6, w=  7.7, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 373.3, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 373.8, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 373.8, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 381.4, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 381.9, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 381.9, w=  7.6, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 389.6, w=  0.5, h=  5.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.6, x= 390.1, w=  7.6, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 390.1, w=  7.6, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 397.6, w=  0.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 398.2, w=170.5, h=  5.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.6, x= 568.8, w=  0.7, h=  5.5 | Near: 
+y= 794.1, x= 267.3, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 267.3, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 267.8, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 268.2, w=  7.2, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 275.4, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 275.9, w=  7.7, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 283.6, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 284.1, w=  7.7, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 291.8, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 292.2, w=  7.6, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 299.8, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 299.8, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL:
+y= 794.1, x= 356.9, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 356.9, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 357.4, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 357.9, w=  7.2, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 365.1, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 365.6, w=  7.7, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 373.3, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 373.8, w=  7.7, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 381.4, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 381.9, w=  7.7, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 389.6, w=  0.5, h=  0.5 | Near: CÓDIGO POSTAL: TIPO DE LA
+y= 794.1, x= 390.1, w=  7.6, h=  0.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.1, x= 397.6, w=  0.5, h=  0.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 794.1, x= 397.6, w=  0.5, h=  0.5 | Near: POSTAL: TIPO DE LA VIALIDAD:
+y= 793.9, x=  71.4, w=  0.7, h=  0.7 | Near: LOCALIDAD:
+y= 793.9, x= 568.8, w=  0.7, h=  0.7 | Near: 
+y= 776.8, x= 300.0, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.8, x= 357.1, w= 40.7, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.: TIPO
+y= 776.7, x=  71.4, w=  0.7, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x=  72.1, w=195.4, h= 17.2 | Near: DOMICILIO NOMBRE DE LA VIALIDAD:
+y= 776.7, x= 267.5, w= 32.5, h= 17.2 | Near: NÚM. EXT.: NÚM.
+y= 776.7, x= 267.5, w= 32.5, h= 17.2 | Near: NÚM. EXT.: NÚM.
+y= 776.7, x= 267.5, w= 32.5, h= 17.2 | Near: NÚM. EXT.: NÚM.
+y= 776.7, x= 300.1, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.7, x= 300.1, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.7, x= 300.1, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.7, x= 300.1, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.7, x= 300.1, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.7, x= 300.1, w= 57.1, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.:
+y= 776.7, x= 357.2, w= 40.7, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.: TIPO
+y= 776.7, x= 357.2, w= 40.7, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.: TIPO
+y= 776.7, x= 357.2, w= 40.7, h= 17.2 | Near: NÚM. EXT.: NÚM. INT.: TIPO
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 397.9, w=170.9, h= 17.2 | Near: NÚM. INT.: TIPO DE ASENTAMIENTO:
+y= 776.7, x= 568.8, w=  0.7, h= 17.2 | Near: 
+y= 776.0, x=  71.4, w=  0.7, h=  0.7 | Near: DOMICILIO NOMBRE DE ASENTAMIENTO:
+y= 776.0, x= 438.4, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 446.6, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 454.8, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 462.9, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 471.1, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 479.3, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 487.4, w=  0.5, h=  0.7 | Near: TELÉFONO:
+y= 776.0, x= 495.6, w=  0.5, h=  0.7 | Near: 
+y= 776.0, x= 503.7, w=  0.5, h=  0.7 | Near: 
+y= 776.0, x= 511.9, w=  0.5, h=  0.7 | Near: 
+y= 776.0, x= 520.1, w=  0.5, h=  0.7 | Near: 
+y= 776.0, x= 568.8, w=  0.7, h=  0.7 | Near: 
+y= 770.5, x=  71.4, w=  0.7, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x=  72.1, w=366.3, h=  5.5 | Near: NOMBRE DE ASENTAMIENTO:
+y= 770.5, x= 438.4, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 438.9, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 438.9, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 446.6, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 447.1, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 447.1, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 454.8, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 455.2, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 455.2, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 462.9, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 463.4, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 463.4, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 471.1, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 471.6, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 471.6, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 479.3, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 479.7, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 479.7, w=  7.7, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 487.4, w=  0.5, h=  5.5 | Near: TELÉFONO:
+y= 770.5, x= 487.9, w=  7.7, h=  5.5 | Near: 
+y= 770.5, x= 487.9, w=  7.7, h=  5.5 | Near: 
+y= 770.5, x= 495.6, w=  0.5, h=  5.5 | Near: 
+y= 770.5, x= 496.1, w=  7.7, h=  5.5 | Near: 
+y= 770.5, x= 496.1, w=  7.7, h=  5.5 | Near: 
+y= 770.5, x= 503.7, w=  0.5, h=  5.5 | Near: 
+y= 770.5, x= 504.2, w=  7.7, h=  5.5 | Near: 
+y= 770.5, x= 504.2, w=  7.7, h=  5.5 | Near: 
+y= 770.5, x= 511.9, w=  0.5, h=  5.5 | Near: 
+y= 770.5, x= 512.4, w=  7.6, h=  5.5 | Near: 
+y= 770.5, x= 512.4, w=  7.6, h=  5.5 | Near: 
+y= 770.5, x= 520.1, w=  0.5, h=  5.5 | Near: 
+y= 770.5, x= 520.5, w= 48.2, h=  5.5 | Near: 
+y= 770.5, x= 520.5, w= 48.2, h=  5.5 | Near: 
+y= 770.5, x= 568.8, w=  0.7, h=  5.5 | Near: 
+y= 770.0, x= 438.4, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 438.4, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 438.9, w=  7.7, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 446.6, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 447.1, w=  7.7, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 454.8, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 455.2, w=  7.7, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 462.9, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 463.4, w=  7.7, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 471.1, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 471.6, w=  7.7, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 479.3, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 479.7, w=  7.7, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 487.4, w=  0.5, h=  0.5 | Near: TELÉFONO:
+y= 770.0, x= 487.9, w=  7.7, h=  0.5 | Near: 
+y= 770.0, x= 495.6, w=  0.5, h=  0.5 | Near: 
+y= 770.0, x= 496.1, w=  7.7, h=  0.5 | Near: 
+y= 770.0, x= 503.7, w=  0.5, h=  0.5 | Near: 
+y= 770.0, x= 504.2, w=  7.7, h=  0.5 | Near: 
+y= 770.0, x= 511.9, w=  0.5, h=  0.5 | Near: 
+y= 770.0, x= 512.4, w=  7.7, h=  0.5 | Near: 
+y= 770.0, x= 520.1, w=  0.5, h=  0.5 | Near: 
+y= 770.0, x= 520.1, w=  0.5, h=  0.5 | Near: 
+y= 769.8, x=  71.4, w=  0.7, h=  0.7 | Near: NOMBRE DE ASENTAMIENTO:
+y= 769.8, x= 568.8, w=  0.7, h=  0.7 | Near: 
+y= 766.4, x=  55.4, w= 16.0, h= 51.1 | Near: NOMBRE DE ASENTAMIENTO:
+y= 766.4, x=  55.4, w= 16.0, h= 51.1 | Near: NOMBRE DE ASENTAMIENTO:
+y= 766.4, x=  55.4, w= 16.0, h= 51.1 | Near: NOMBRE DE ASENTAMIENTO:
+y= 766.4, x=  71.4, w=  0.7, h=  3.4 | Near: NOMBRE DE ASENTAMIENTO:
+y= 766.4, x=  72.1, w=496.5, h=  3.4 | Near: NOMBRE DE ASENTAMIENTO:
+y= 766.4, x=  72.1, w=496.5, h=  3.4 | Near: NOMBRE DE ASENTAMIENTO:
+y= 766.4, x= 568.8, w=  0.7, h=  3.4 | Near: 
+y= 765.7, x=  55.4, w= 16.0, h=  0.7 | Near: NOMBRE DE ASENTAMIENTO:
+y= 765.7, x=  71.4, w=  0.7, h=  0.7 | Near: NOMBRE DE ASENTAMIENTO:
+y= 765.7, x=  72.1, w=496.6, h=  0.7 | Near: NOMBRE DE ASENTAMIENTO:
+y= 765.7, x= 568.8, w=  0.7, h=  0.7 | Near: 
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x=  55.4, w=513.3, h= 62.7 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 703.0, x= 568.8, w=  0.7, h= 62.7 | Near: :
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x=  55.4, w=407.5, h= 10.2 | Near: ATENCIÓN PREHOSPITALARIA:
+y= 692.8, x= 462.9, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 463.4, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 463.4, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 471.1, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 471.6, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 471.6, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 479.3, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 479.7, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 479.7, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 487.4, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 487.9, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 487.9, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 495.6, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 496.1, w= 72.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 496.1, w= 72.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 496.1, w= 72.7, h= 10.2 | Near: : Día Mes Año HH
+y= 692.8, x= 568.8, w=  0.7, h= 10.2 | Near: : HH MM
+y= 692.4, x= 462.9, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 462.9, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 463.4, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 463.9, w=  7.2, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 471.1, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 471.6, w=  7.7, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 479.3, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 479.7, w=  7.7, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 487.4, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 487.9, w=  7.7, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 495.6, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 495.6, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 692.4, x= 568.8, w=  0.7, h=  0.5 | Near: : HH MM
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x=  55.4, w=407.7, h= 41.6 | Near: TRASLADO TRANSITORIO: 1
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 463.1, w= 32.7, h= 41.6 | Near: CLUES:
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 495.8, w= 73.0, h= 41.6 | Near: 
+y= 650.7, x= 568.8, w=  0.7, h= 41.6 | Near: 
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x=  55.4, w=374.8, h= 10.2 | Near: TRASLADO TRANSITORIO: 1
+y= 640.5, x= 430.4, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 430.9, w=  7.6, h= 10.2 | Near: CLUES:
+y= 640.5, x= 430.9, w=  7.6, h= 10.2 | Near: CLUES:
+y= 640.5, x= 438.4, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 438.9, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 438.9, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 446.6, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 447.1, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 447.1, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 454.8, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 455.2, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 455.2, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 462.9, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 463.4, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 463.4, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 471.1, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 471.6, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 471.6, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 479.3, w=  0.5, h= 10.2 | Near: CLUES:
+y= 640.5, x= 479.7, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 479.7, w=  7.7, h= 10.2 | Near: CLUES:
+y= 640.5, x= 487.4, w=  0.5, h= 10.2 | Near: 
+y= 640.5, x= 487.9, w=  7.7, h= 10.2 | Near: 
+y= 640.5, x= 487.9, w=  7.7, h= 10.2 | Near: 
+y= 640.5, x= 495.6, w=  0.5, h= 10.2 | Near: 
+y= 640.5, x= 496.1, w=  7.7, h= 10.2 | Near: 
+y= 640.5, x= 496.1, w=  7.7, h= 10.2 | Near: 
+y= 640.5, x= 503.7, w=  0.5, h= 10.2 | Near: 
+y= 640.5, x= 504.2, w=  7.7, h= 10.2 | Near: 
+y= 640.5, x= 504.2, w=  7.7, h= 10.2 | Near: 
+y= 640.5, x= 511.9, w=  0.5, h= 10.2 | Near: 
+y= 640.5, x= 512.4, w=  7.6, h= 10.2 | Near: 
+y= 640.5, x= 512.4, w=  7.6, h= 10.2 | Near: 
+y= 640.5, x= 520.1, w=  0.5, h= 10.2 | Near: 
+y= 640.5, x= 520.5, w= 48.2, h= 10.2 | Near: 
+y= 640.5, x= 520.5, w= 48.2, h= 10.2 | Near: 
+y= 640.5, x= 568.8, w=  0.7, h= 10.2 | Near: 
+y= 640.0, x= 430.4, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 430.4, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 430.9, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 431.4, w=  7.1, h=  0.5 | Near: CLUES:
+y= 640.0, x= 438.4, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 438.9, w=  7.7, h=  0.5 | Near: CLUES:
+y= 640.0, x= 446.6, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 447.1, w=  7.7, h=  0.5 | Near: CLUES:
+y= 640.0, x= 454.8, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 455.2, w=  7.7, h=  0.5 | Near: CLUES:
+y= 640.0, x= 462.9, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 463.4, w=  7.7, h=  0.5 | Near: CLUES:
+y= 640.0, x= 471.1, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 471.6, w=  7.7, h=  0.5 | Near: CLUES:
+y= 640.0, x= 479.3, w=  0.5, h=  0.5 | Near: CLUES:
+y= 640.0, x= 479.7, w=  7.7, h=  0.5 | Near: CLUES:
+y= 640.0, x= 487.4, w=  0.5, h=  0.5 | Near: 
+y= 640.0, x= 487.9, w=  7.7, h=  0.5 | Near: 
+y= 640.0, x= 495.6, w=  0.5, h=  0.5 | Near: 
+y= 640.0, x= 496.1, w=  7.7, h=  0.5 | Near: 
+y= 640.0, x= 503.7, w=  0.5, h=  0.5 | Near: 
+y= 640.0, x= 504.2, w=  7.7, h=  0.5 | Near: 
+y= 640.0, x= 511.9, w=  0.5, h=  0.5 | Near: 
+y= 640.0, x= 512.4, w=  7.7, h=  0.5 | Near: 
+y= 640.0, x= 520.1, w=  0.5, h=  0.5 | Near: 
+y= 640.0, x= 520.1, w=  0.5, h=  0.5 | Near: 
+y= 640.0, x= 568.8, w=  0.7, h=  0.5 | Near: 
+y= 636.0, x=  55.4, w=375.2, h=  4.1 | Near: FECHA Y HORA DE ALTA:
+y= 636.0, x=  55.4, w=375.2, h=  4.1 | Near: FECHA Y HORA DE ALTA:
+y= 636.0, x= 430.6, w= 89.7, h=  4.1 | Near: 
+y= 636.0, x= 430.6, w= 89.7, h=  4.1 | Near: 
+y= 636.0, x= 520.3, w= 48.5, h=  4.1 | Near: 
+y= 636.0, x= 520.3, w= 48.5, h=  4.1 | Near: 
+y= 636.0, x= 568.8, w=  0.7, h=  4.1 | Near: 
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x=  55.4, w=122.1, h= 10.2 | Near: FECHA Y HORA DE ALTA:
+y= 625.8, x= 177.5, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 178.0, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 178.0, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 185.7, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 186.1, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 186.1, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 193.8, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 194.3, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 194.3, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 202.0, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 202.5, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 202.5, w=  7.7, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 210.2, w=  0.5, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 210.7, w=358.1, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 210.7, w=358.1, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 210.7, w=358.1, h= 10.2 | Near: : Día Mes Año HH
+y= 625.8, x= 568.8, w=  0.7, h= 10.2 | Near: 
+y= 625.3, x= 177.5, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 177.5, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 178.0, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 178.5, w=  7.2, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 185.7, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 186.1, w=  7.7, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 193.8, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 194.3, w=  7.7, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 202.0, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 202.5, w=  7.7, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 210.2, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 210.2, w=  0.5, h=  0.5 | Near: : Día Mes Año HH
+y= 625.3, x= 568.8, w=  0.7, h=  0.5 | Near: 
+y= 602.4, x=  44.2, w=  7.9, h= 23.3 | Near: ALTA POR (ENVIADO A): 1
+y= 602.4, x=  44.2, w=  7.9, h= 23.3 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x=  55.4, w=122.3, h= 24.1 | Near: ALTA POR (ENVIADO A): 1
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 177.7, w= 32.7, h= 24.1 | Near: 1 Hospitalización 2 Consulta externa
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 210.4, w=358.4, h= 24.1 | Near: Hospitalización 2 Consulta externa 3
+y= 601.1, x= 568.8, w=  0.7, h= 24.1 | Near: 
+y= 591.0, x=  55.4, w=277.0, h= 10.2 | Near: 
+y= 591.0, x=  55.4, w=277.0, h= 10.2 | Near: 
+y= 591.0, x=  55.4, w=277.0, h= 10.2 | Near: 
+y= 591.0, x= 332.5, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 332.9, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 332.9, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 340.6, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 341.1, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 341.1, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 348.8, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 349.3, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 349.3, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 356.9, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 357.4, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 357.4, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 365.1, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 365.6, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 365.6, w=  7.7, h= 10.2 | Near: CLUES:
+y= 591.0, x= 373.3, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 373.8, w=  7.6, h= 10.2 | Near: CLUES:
+y= 591.0, x= 373.8, w=  7.6, h= 10.2 | Near: CLUES:
+y= 591.0, x= 381.4, w=  0.5, h= 10.2 | Near: CLUES:
+y= 591.0, x= 381.9, w=  7.6, h= 10.2 | Near: CLUES:
+y= 591.0, x= 381.9, w=  7.6, h= 10.2 | Near: CLUES:
+y= 591.0, x= 389.6, w=  0.5, h= 10.2 | Near: 
+y= 591.0, x= 390.1, w=  7.6, h= 10.2 | Near: 
+y= 591.0, x= 390.1, w=  7.6, h= 10.2 | Near: 
+y= 591.0, x= 397.6, w=  0.5, h= 10.2 | Near: 
+y= 591.0, x= 398.2, w=  7.6, h= 10.2 | Near: 
+y= 591.0, x= 398.2, w=  7.6, h= 10.2 | Near: 
+y= 591.0, x= 405.8, w=  0.5, h= 10.2 | Near: 
+y= 591.0, x= 406.3, w=  7.7, h= 10.2 | Near: 
+y= 591.0, x= 406.3, w=  7.7, h= 10.2 | Near: 
+y= 591.0, x= 413.9, w=  0.5, h= 10.2 | Near: 
+y= 591.0, x= 414.4, w=  7.7, h= 10.2 | Near: 
+y= 591.0, x= 414.4, w=  7.7, h= 10.2 | Near: 
+y= 591.0, x= 422.1, w=  0.5, h= 10.2 | Near: 
+y= 591.0, x= 422.6, w=146.2, h= 10.2 | Near: 
+y= 591.0, x= 422.6, w=146.2, h= 10.2 | Near: 
+y= 591.0, x= 568.8, w=  0.7, h= 10.2 | Near: 
+y= 590.5, x= 332.5, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 332.5, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 332.9, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 333.4, w=  7.2, h=  0.5 | Near: CLUES:
+y= 590.5, x= 340.6, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 341.1, w=  7.7, h=  0.5 | Near: CLUES:
+y= 590.5, x= 348.8, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 349.3, w=  7.7, h=  0.5 | Near: CLUES:
+y= 590.5, x= 356.9, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 357.4, w=  7.7, h=  0.5 | Near: CLUES:
+y= 590.5, x= 365.1, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 365.6, w=  7.7, h=  0.5 | Near: CLUES:
+y= 590.5, x= 373.3, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 373.8, w=  7.7, h=  0.5 | Near: CLUES:
+y= 590.5, x= 381.4, w=  0.5, h=  0.5 | Near: CLUES:
+y= 590.5, x= 381.9, w=  7.7, h=  0.5 | Near: CLUES:
+y= 590.5, x= 389.6, w=  0.5, h=  0.5 | Near: 
+y= 590.5, x= 390.1, w=  7.6, h=  0.5 | Near: 
+y= 590.5, x= 397.6, w=  0.5, h=  0.5 | Near: 
+y= 590.5, x= 398.1, w=  7.7, h=  0.5 | Near: 
+y= 590.5, x= 405.8, w=  0.5, h=  0.5 | Near: 
+y= 590.5, x= 406.3, w=  7.7, h=  0.5 | Near: 
+y= 590.5, x= 413.9, w=  0.5, h=  0.5 | Near: 
+y= 590.5, x= 414.4, w=  7.7, h=  0.5 | Near: 
+y= 590.5, x= 422.1, w=  0.5, h=  0.5 | Near: 
+y= 590.5, x= 422.1, w=  0.5, h=  0.5 | Near: 
+y= 590.5, x= 568.8, w=  0.7, h=  0.5 | Near: 
+y= 585.2, x=  55.4, w=277.3, h=  5.3 | Near: 4 Domicilio
+y= 585.2, x=  55.4, w=277.3, h=  5.3 | Near: 4 Domicilio
+y= 585.2, x= 332.7, w= 89.6, h=  5.3 | Near: 1 Sí 2 No FOLIO
+y= 585.2, x= 332.7, w= 89.6, h=  5.3 | Near: 1 Sí 2 No FOLIO
+y= 585.2, x= 422.4, w=146.4, h=  5.3 | Near: CERTIFICADO:
+y= 585.2, x= 422.4, w=146.4, h=  5.3 | Near: CERTIFICADO:
+y= 585.2, x= 568.8, w=  0.7, h=  5.3 | Near: 
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x=  55.4, w=334.0, h= 10.2 | Near: 4 Domicilio
+y= 575.0, x= 389.6, w=  0.5, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 390.1, w=  7.6, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 390.1, w=  7.6, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 397.6, w=  0.5, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 398.2, w=  7.6, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 398.2, w=  7.6, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 405.8, w=  0.5, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 406.3, w=  7.7, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 406.3, w=  7.7, h= 10.2 | Near: FOLIO DEL CERTIFICADO:
+y= 575.0, x= 413.9, w=  0.5, h= 10.2 | Near: DEL CERTIFICADO:
+y= 575.0, x= 414.4, w=  7.7, h= 10.2 | Near: DEL CERTIFICADO:
+y= 575.0, x= 414.4, w=  7.7, h= 10.2 | Near: DEL CERTIFICADO:
+y= 575.0, x= 422.1, w=  0.5, h= 10.2 | Near: CERTIFICADO:
+y= 575.0, x= 422.6, w=  7.7, h= 10.2 | Near: CERTIFICADO:
+y= 575.0, x= 422.6, w=  7.7, h= 10.2 | Near: CERTIFICADO:
+y= 575.0, x= 430.4, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 430.9, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 430.9, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 438.4, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 438.9, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 438.9, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 446.6, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 447.1, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 447.1, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 454.8, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 455.2, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 455.2, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 462.9, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 463.4, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 463.4, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 471.1, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 471.6, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 471.6, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 479.3, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 479.7, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 479.7, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 487.4, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 487.9, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 487.9, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 495.6, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 496.1, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 496.1, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 503.7, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 504.2, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 504.2, w=  7.7, h= 10.2 | Near: 
+y= 575.0, x= 511.9, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 512.4, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 512.4, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 520.1, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 520.5, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 520.5, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 528.2, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 528.7, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 528.7, w=  7.6, h= 10.2 | Near: 
+y= 575.0, x= 536.3, w=  0.5, h= 10.2 | Near: 
+y= 575.0, x= 536.7, w= 32.0, h= 10.2 | Near: 
+y= 575.0, x= 536.7, w= 32.0, h= 10.2 | Near: 
+y= 575.0, x= 568.8, w=  0.7, h= 10.2 | Near: 
+y= 574.5, x= 389.6, w=  0.5, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 389.6, w=  0.5, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 390.1, w=  0.5, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 390.6, w=  7.1, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 397.6, w=  0.5, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 398.1, w=  7.7, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 405.8, w=  0.5, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 406.3, w=  7.7, h=  0.5 | Near: FOLIO DEL CERTIFICADO:
+y= 574.5, x= 413.9, w=  0.5, h=  0.5 | Near: DEL CERTIFICADO:
+y= 574.5, x= 414.4, w=  7.7, h=  0.5 | Near: DEL CERTIFICADO:
+y= 574.5, x= 422.1, w=  0.5, h=  0.5 | Near: CERTIFICADO:
+y= 574.5, x= 422.6, w=  7.8, h=  0.5 | Near: CERTIFICADO:
+y= 574.5, x= 430.4, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 430.9, w=  7.6, h=  0.5 | Near: 
+y= 574.5, x= 438.4, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 438.9, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 446.6, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 447.1, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 454.8, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 455.2, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 462.9, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 463.4, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 471.1, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 471.6, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 479.3, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 479.7, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 487.4, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 487.9, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 495.6, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 496.1, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 503.7, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 504.2, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 511.9, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 512.4, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 520.1, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 520.5, w=  7.7, h=  0.5 | Near: 
+y= 574.5, x= 528.2, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 528.7, w=  7.6, h=  0.5 | Near: 
+y= 574.5, x= 536.3, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 536.3, w=  0.5, h=  0.5 | Near: 
+y= 574.5, x= 568.8, w=  0.7, h=  0.5 | Near: 
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x=  55.4, w=334.3, h= 53.3 | Near: AFECCIÓN PRINCIPAL:
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 389.7, w=146.8, h= 53.3 | Near: 
+y= 521.2, x= 536.5, w= 32.3, h= 53.3 | Near: CÓDIGO CIE
+y= 521.2, x= 536.5, w= 32.3, h= 53.3 | Near: CÓDIGO CIE
+y= 521.2, x= 568.8, w=  0.7, h= 53.3 | Near: CÓDIGO CIE
+y= 516.2, x=  74.6, w= 44.5, h=  7.6 | Near: AFECCIÓN PRINCIPAL:
+y= 516.2, x=  74.6, w= 44.5, h=  7.6 | Near: AFECCIÓN PRINCIPAL:
+y= 516.2, x=  74.6, w= 44.5, h=  7.6 | Near: AFECCIÓN PRINCIPAL:
+y= 496.0, x=  59.2, w=  7.5, h=  9.5 | Near: A.P.
+y= 496.0, x=  59.2, w=  7.5, h=  9.5 | Near: A.P.
+y= 430.0, x=  59.2, w=  7.5, h= 38.2 | Near: COMORBILIDADES
+y= 430.0, x=  59.2, w=  7.5, h= 38.2 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 424.0, x=  71.3, w=  6.6, h= 73.4 | Near: COMORBILIDADES
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.9, x= 561.3, w=  7.4, h= 78.5 | Near: Para
+y= 413.3, x= 467.9, w= 41.4, h=  7.6 | Near: 
+y= 413.3, x= 467.9, w= 41.4, h=  7.6 | Near: 
+y= 413.3, x= 467.9, w= 41.4, h=  7.6 | Near: 
+y= 410.6, x=  44.2, w=  7.9, h= 52.4 | Near: AFECCIONES
+y= 410.6, x=  44.2, w=  7.9, h= 52.4 | Near: AFECCIONES
+y= 410.6, x=  44.2, w=  7.9, h= 52.4 | Near: AFECCIONES
+y= 410.6, x=  44.2, w=  7.9, h= 52.4 | Near: AFECCIONES
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 400.1, x=  79.4, w=203.0, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x=  79.4, w=124.6, h=  7.6 | Near: 
+y= 378.7, x= 236.2, w=  6.0, h=  7.6 | Near: Sí 2
+y= 378.7, x= 236.2, w=  6.0, h=  7.6 | Near: Sí 2
+y= 378.4, x= 259.7, w=  7.8, h=  7.6 | Near: Sí 2
+y= 378.4, x= 295.0, w= 66.0, h=  7.6 | Near: Sí 2
+y= 376.7, x= 251.0, w=  7.9, h= 10.2 | Near: Sí 2
+y= 376.7, x= 251.0, w=  7.9, h= 10.2 | Near: Sí 2
+y= 376.5, x= 251.1, w=  8.2, h= 10.4 | Near: Sí 2
+y= 374.4, x= 227.0, w=  8.2, h=  2.3 | Near: Sí 2 1
+y= 374.4, x= 227.0, w=  8.2, h=  2.3 | Near: Sí 2 1
+y= 374.0, x= 226.7, w=  0.5, h=  0.5 | Near: Sí 2 1
+y= 374.0, x= 226.7, w=  0.5, h=  0.5 | Near: Sí 2 1
+y= 374.0, x= 227.2, w=  0.5, h=  0.5 | Near: Sí 2 1
+y= 374.0, x= 227.7, w=  7.2, h=  0.5 | Near: Sí 2 1
+y= 374.0, x= 234.9, w=  0.5, h=  0.5 | Near: Sí 2 1
+y= 364.0, x= 226.7, w=  0.5, h= 10.0 | Near: 1
+y= 364.0, x= 227.2, w=  7.7, h= 10.0 | Near: 1
+y= 364.0, x= 227.2, w=  7.7, h= 10.0 | Near: 1
+y= 364.0, x= 227.2, w=  7.7, h= 10.0 | Near: 1
+y= 364.0, x= 234.9, w=  0.5, h= 10.0 | Near: 1
+y= 363.5, x= 226.7, w=  0.5, h=  0.5 | Near: 1
+y= 363.5, x= 226.7, w=  0.5, h=  0.5 | Near: 1
+y= 363.5, x= 227.2, w=  7.7, h=  0.5 | Near: 1
+y= 363.5, x= 234.9, w=  0.5, h=  0.5 | Near: 1
+y= 363.5, x= 234.9, w=  0.5, h=  0.5 | Near: 1
+y= 362.8, x= 218.8, w= 66.5, h=  7.3 | Near: 1
+y= 362.8, x= 218.8, w= 66.5, h=  7.3 | Near: 1
+y= 362.4, x=  89.5, w= 29.6, h=  7.6 | Near: 
+y= 355.2, x= 423.0, w= 16.1, h=  7.4 | Near: Cédula:
+y= 355.2, x= 423.0, w= 16.1, h=  7.4 | Near: Cédula:
+y= 343.0, x=  71.3, w=  6.6, h=  7.4 | Near: 
+y= 334.6, x= 224.5, w= 21.2, h=  7.6 | Near: Nombre(s) Primer Apellido
+y= 334.6, x= 224.5, w= 21.2, h=  7.6 | Near: Nombre(s) Primer Apellido
+y= 334.6, x= 297.6, w= 30.1, h=  7.6 | Near: Nombre(s) Primer Apellido Segundo
+y= 334.6, x= 297.6, w= 30.1, h=  7.6 | Near: Nombre(s) Primer Apellido Segundo
+y= 334.6, x= 365.2, w= 33.6, h=  7.6 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 334.6, x= 365.2, w= 33.6, h=  7.6 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 334.6, x= 365.2, w= 33.6, h=  7.6 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 334.6, x= 365.2, w= 33.6, h=  7.6 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 334.6, x= 481.8, w= 12.4, h=  7.6 | Near: CURP Cédula:
+y= 334.6, x= 481.8, w= 12.4, h=  7.6 | Near: CURP Cédula:
+y= 327.2, x= 423.0, w= 16.1, h=  7.6 | Near: Cédula:
+y= 327.2, x= 423.0, w= 16.1, h=  7.6 | Near: Cédula:
+y= 314.9, x=  71.3, w=  6.6, h=  7.6 | Near: 
+y= 306.7, x= 224.5, w= 21.2, h=  7.4 | Near: Nombre(s) Primer Apellido
+y= 306.7, x= 224.5, w= 21.2, h=  7.4 | Near: Nombre(s) Primer Apellido
+y= 306.7, x= 297.6, w= 30.1, h=  7.4 | Near: Nombre(s) Primer Apellido Segundo
+y= 306.7, x= 297.6, w= 30.1, h=  7.4 | Near: Nombre(s) Primer Apellido Segundo
+y= 306.7, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 306.7, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 306.7, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 306.7, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido Cédula:
+y= 306.7, x= 481.8, w= 12.4, h=  7.4 | Near: CURP Cédula:
+y= 306.7, x= 481.8, w= 12.4, h=  7.4 | Near: CURP Cédula:
+y= 299.5, x= 423.0, w= 16.1, h=  7.4 | Near: Cédula:
+y= 299.5, x= 423.0, w= 16.1, h=  7.4 | Near: Cédula:
+y= 291.6, x=  44.2, w=  7.9, h= 38.3 | Near: INTERCONSULTA
+y= 291.6, x=  44.2, w=  7.9, h= 38.3 | Near: INTERCONSULTA
+y= 287.2, x=  71.3, w=  6.6, h=  7.4 | Near: INTERCONSULTA
+y= 278.9, x= 224.5, w= 21.2, h=  7.4 | Near: Nombre(s) Primer Apellido
+y= 278.9, x= 224.5, w= 21.2, h=  7.4 | Near: Nombre(s) Primer Apellido
+y= 278.9, x= 297.6, w= 30.1, h=  7.4 | Near: Nombre(s) Primer Apellido Segundo
+y= 278.9, x= 297.6, w= 30.1, h=  7.4 | Near: Nombre(s) Primer Apellido Segundo
+y= 278.9, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido
+y= 278.9, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido
+y= 278.9, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido
+y= 278.9, x= 365.2, w= 33.6, h=  7.4 | Near: Primer Apellido Segundo Apellido
+y= 278.5, x= 481.8, w= 12.4, h=  7.6 | Near: CURP
+y= 278.5, x= 481.8, w= 12.4, h=  7.6 | Near: CURP
+y= 275.3, x=  59.2, w=  7.5, h= 22.0 | Near: NINGUNA
+y= 275.3, x=  59.2, w=  7.5, h= 22.0 | Near: NINGUNA
+y= 257.9, x=  56.2, w=  4.4, h=  5.5 | Near: 
+y= 243.2, x=  56.2, w=  4.4, h=  5.5 | Near: 
+y= 228.6, x=  56.2, w=  4.4, h=  5.5 | Near: 
+y= 214.0, x=  56.2, w=  4.4, h=  5.5 | Near: 
+y= 199.2, x=  56.2, w=  4.4, h=  5.5 | Near: PROCEDIMIENTOS
+y= 197.5, x=  44.2, w=  7.9, h= 41.2 | Near: PROCEDIMIENTOS
+y= 197.5, x=  44.2, w=  7.9, h= 41.2 | Near: PROCEDIMIENTOS
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 188.9, x= 561.3, w=  7.4, h= 57.4 | Near: Para
+y= 170.3, x= 480.6, w= 48.6, h=  5.5 | Near: 
+y= 169.6, x=  56.0, w=  4.6, h=  5.5 | Near: Nombre genérico
+y= 156.4, x=  56.0, w=  4.6, h=  5.5 | Near: 
+y= 156.4, x= 447.8, w= 10.3, h=  5.5 | Near: 
+y= 151.7, x= 527.5, w= 11.2, h= 12.4 | Near: Plan 1 Sintomático A B
+y= 151.7, x= 527.5, w= 11.2, h= 12.4 | Near: Plan 1 Sintomático A B
+y= 151.7, x= 527.5, w= 11.2, h= 12.4 | Near: Plan 1 Sintomático A B
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 142.2, x=  56.0, w=504.6, h=  7.8 | Near: 3.
+y= 129.4, x= 521.4, w= 39.5, h=  7.4 | Near: 2 Con antibiótico
+y= 129.4, x= 521.4, w= 39.5, h=  7.4 | Near: 2 Con antibiótico
+y= 129.4, x= 521.4, w= 39.5, h=  7.4 | Near: 2 Con antibiótico
+y= 129.0, x=  55.2, w=  6.5, h=  7.6 | Near: SUMINISTRADOS
+y= 129.0, x= 449.2, w= 36.8, h=  7.8 | Near: 2 Con antibiótico
+y= 129.0, x= 449.2, w= 36.8, h=  7.8 | Near: 2 Con antibiótico
+y= 129.0, x= 449.2, w= 36.8, h=  7.8 | Near: 2 Con antibiótico
+y= 129.0, x= 449.2, w= 36.8, h=  7.8 | Near: 2 Con antibiótico
+y= 129.0, x= 449.2, w= 36.8, h=  7.8 | Near: 2 Con antibiótico
+y= 129.0, x= 449.2, w= 36.8, h=  7.8 | Near: 2 Con antibiótico
+y= 113.2, x=  55.2, w=  6.5, h=  7.4 | Near: 
+y= 113.2, x= 449.2, w= 27.1, h=  7.4 | Near: 3 Antivirales
+y= 113.2, x= 449.2, w= 27.1, h=  7.4 | Near: 3 Antivirales
+y= 113.2, x= 449.2, w= 27.1, h=  7.4 | Near: 3 Antivirales
+y= 113.2, x= 449.2, w= 27.1, h=  7.4 | Near: 3 Antivirales
+y=  98.3, x=  55.2, w=  6.5, h=  7.6 | Near: 
+y=  87.1, x=  44.2, w=  7.9, h= 75.1 | Near: MEDICAMENTOS
+y=  87.1, x=  44.2, w=  7.9, h= 75.1 | Near: MEDICAMENTOS
+y=  87.1, x=  44.2, w=  7.9, h= 75.1 | Near: MEDICAMENTOS
+y=  87.1, x=  44.2, w=  7.9, h= 75.1 | Near: MEDICAMENTOS
+y=  63.0, x=  56.0, w= 85.2, h= 18.7 | Near: NOMBRE:
+y=  63.0, x=  56.0, w= 85.2, h= 18.7 | Near: NOMBRE:
+y=  63.0, x=  56.0, w= 85.2, h= 18.7 | Near: NOMBRE:
+y=  63.0, x=  56.0, w= 85.2, h= 18.7 | Near: NOMBRE:
+y=  63.0, x=  56.0, w= 85.2, h= 18.7 | Near: NOMBRE:
+y=  63.0, x=  56.0, w= 85.2, h= 18.7 | Near: NOMBRE:
+y=  53.8, x= 142.8, w= 21.2, h=  7.6 | Near: Nombre(s)
+y=  53.8, x= 142.8, w= 21.2, h=  7.6 | Near: Nombre(s)
+y=  53.8, x= 309.8, w= 30.1, h=  7.6 | Near: Primer Apellido
+y=  53.8, x= 309.8, w= 30.1, h=  7.6 | Near: Primer Apellido
+y=  53.8, x= 471.2, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y=  53.8, x= 471.2, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y=  53.8, x= 471.2, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y=  53.8, x= 471.2, w= 33.6, h=  7.6 | Near: Segundo Apellido
+y=  42.1, x= 242.8, w= 48.6, h=  7.4 | Near: 
+y=  42.1, x= 242.8, w= 48.6, h=  7.4 | Near: 
+y=  41.9, x=  55.2, w= 19.2, h=  7.4 | Near: C.U.R.P.:
+y=  41.9, x=  55.2, w= 19.2, h=  7.4 | Near: C.U.R.P.:
+y=  41.9, x= 414.1, w= 17.0, h=  7.4 | Near: FIRMA:
+y=  41.9, x= 414.1, w= 17.0, h=  7.4 | Near: FIRMA:
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=  -0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 
+y=   0.0, x=   0.0, w=612.0, h=1008.0 | Near: 

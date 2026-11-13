@@ -1,0 +1,76 @@
+Dump for backend/src/assets/templates/sinba16.template.pdf
+Y= 961.4 (topY=  46.6): x=193.9: HOJA | x=232.1: DIARIA | x=278.9: DEL | x=306.5: SERVICIO | x=369.9: DE | x=390.2: URGENCIAS
+Y= 948.8 (topY=  59.2): x=290.2: SINBA | x=309.4: - | x=311.3: SEUL | x=327.5: - | x=329.4: 16 | x=336.8: - | x=338.6: P | x=345.1: DGIS
+Y= 935.9 (topY=  72.1): x=477.0: FOLIO:
+Y= 928.8 (topY=  79.2): x= 85.3: Edo | x=106.8: Institución | x=146.7: Consecutivo | x=187.0: Ver
+Y= 911.0 (topY=  97.0): x= 56.2: NOMBRE:
+Y= 902.6 (topY= 105.4): x=160.2: Nombre(s) | x=314.9: Primer Apellido | x=468.2: Segundo | x=484.2: Apellido
+Y= 878.1 (topY= 129.9): x=391.3: ENTIDAD | x=409.4: O | x=413.4: PAÍS | x=423.6: DE | x=429.8: NACIMIENTO: | x= 56.5: C.U.R.P. | x= 72.3: : | x=236.1: FECHA | x=249.4: DE | x=255.5: NACIMIENTO:
+Y= 869.9 (topY= 138.1): x=362.2: Año | x=305.1: Día | x=329.1: Mes
+Y= 858.3 (topY= 149.7): x=349.9: o) | x= 56.5: EDAD | x= 68.1: CUMP | x=400.5: Años | x=409.8: (1 | x=414.3: año | x=421.9: y | x=424.9: más) | x=448.4: SEXO: | x=467.6: 1 | x=473.5: Hombre | x=499.7: 2 | x=506.5: Mujer | x=532.3: 3 | x=539.0: Intersexual | x= 79.9: LIDA: | x=123.9: Horas (en menores de 24 hrs) | x=212.2: Días | x=220.5: (en | x=227.9: menores | x=243.5: de | x=248.9: 30 | x=254.2: días) | x=302.4: Meses | x=313.5: (en menores | x=335.8: de | x=341.0: 1 | x=344.1: añ
+Y= 842.4 (topY= 165.6): x=230.2: 2 | x=236.0: IMSS | x=262.9: 3 | x=268.6: ISSSTE | x=295.5: 4 | x=301.2: PEMEX | x=328.1: 5 | x=333.8: SEDENA | x= 56.5: AFILIACIÓN | x=360.9: 6 | x=366.7: SEMAR | x=393.6: 8 | x=399.3: Otra | x=425.1: 11 | x=431.8: ISSFAM | x=465.9: 14 | x=473.1: OPD | x=481.8: IMSS | x=491.0: Bienestar | x=531.2: 99 | x=537.8: Se | x=543.0: ignora | x= 81.0: A | x= 84.9: LOS | x= 93.4: SERVICIOS | x=114.3: DE | x=120.4: SALUD: | x=148.6: 0 | x=154.5: No | x=160.3: especificado | x=197.5: 1 | x=203.3: Ninguna
+Y= 827.1 (topY= 180.9): x= 56.5: GRATUIDAD: | x= 91.5: 1 | x= 98.5: Sí | x=115.9: 2 | x=122.2: No | x=178.9: NÚM. | x=190.8: AFILIACIÓN:
+Y= 808.5 (topY= 199.5): x= 81.0: ENTIDAD | x= 99.4: FEDERATIVA/PAÍS: | x=333.1: MUNICIPIO O ALCALDÍA:
+Y= 796.5 (topY= 211.5): x= 81.0: LOCALIDAD: | x=309.6: CÓDIGO | x=326.6: POSTAL: | x=407.6: TIPO | x=417.8: DE | x=423.9: LA | x=429.9: VIALIDAD:
+Y= 784.4 (topY= 223.6): x=288.3: NÚM. | x=300.4: EXT.: | x=346.5: NÚM. | x=358.8: INT.: | x= 81.0: NOMBRE | x= 98.8: DE | x=105.1: LA | x=111.4: VIALIDAD: | x=407.5: TIPO | x=417.7: DE | x=423.9: ASENTAMIENTO:
+Y= 781.1 (topY= 226.9): x= 64.8: DOMICILIO
+Y= 772.4 (topY= 235.6): x= 81.0: NOMBRE | x= 98.9: DE | x=105.4: ASENTAMIENTO: | x=407.6: TELÉFONO:
+Y= 757.5 (topY= 250.5): x= 64.7: ¿SE | x= 72.7: CONSIDERA | x= 95.5: INDÍGENA? | x=140.4: 1 | x=147.5: Sí | x=173.1: 2 | x=179.3: No | x=334.0: ¿SE | x=342.1: CONSIDERA | x=365.0: AFROMEXICANO? | x=417.9: 1 | x=425.1: Sí | x=450.7: 2 | x=456.9: No
+Y= 752.4 (topY= 255.6): x= 64.7: Los | x= 71.3: menores | x= 87.0: de | x= 92.3: 5 | x= 95.4: años | x=104.2: que | x=111.7: sean | x=120.5: hijos | x=130.0: de | x=135.3: alguna | x=147.7: persona | x=162.3: que | x=169.8: se | x=174.4: asuma | x=186.4: indígena, | x=203.6: serán | x=214.0: considerados | x=237.4: como | x=247.5: tales. | x=334.0: Los | x=340.6: menores | x=356.4: de | x=361.5: 5 | x=364.6: años | x=373.4: que | x=380.8: sean | x=389.6: hijos | x=398.9: de | x=404.2: alguna | x=416.7: persona | x=431.2: que | x=438.6: se | x=443.2: asuma | x=455.2: afromexicana, | x=481.2: serán | x=491.6: considerados | x=514.9: como | x=525.0: tales.
+Y= 741.2 (topY= 266.8): x= 64.7: ¿ES | x= 73.0: MIGRANTE | x= 93.9: RETORNADO? | x=140.4: 1 | x=147.5: Sí | x=173.1: 2 | x=179.3: No
+Y= 736.5 (topY= 271.5): x= 65.6: Aquella persona de | x= 98.5: nacionalidad | x=120.7: mexicana | x=137.4: que | x=144.6: vive | x=152.4: en | x=157.7: el exterior | x=176.7: y | x=179.5: regresa al país | x=205.0: de | x=210.1: forma voluntaria, involuntaria, o | x=266.4: temporal | x=282.8: (paisanos).
+Y= 725.4 (topY= 282.6): x= 64.7: ¿SE | x= 72.7: IDENTIFICA | x= 96.1: COMO | x=108.9: PARTE | x=122.9: DE | x=129.1: LA | x=135.4: COMUNIDAD | x=160.2: LGBT+? | x=197.5: 1 | x=204.7: Sí | x=230.2: 2 | x=236.9: No | x=262.9: 3 | x=268.4: Prefiere | x=284.1: no | x=289.2: responder | x=334.0: ¿CÓMO | x=348.6: SE | x=354.6: IDENTIFICA? | x=393.4: 1 | x=399.8: Mujer | x=411.2: trans | x=450.7: 2 | x=457.3: Hombre | x=472.4: trans | x=507.8: 3 | x=514.5: Persona | x=529.7: no | x=535.2: binaria
+Y= 720.9 (topY= 287.1): x= 95.3: Personas | x=111.4: mayores | x=126.9: de | x=132.1: 10 | x=137.3: años
+Y= 715.1 (topY= 292.9): x=393.4: 4 | x=400.1: Lesbiana | x=450.7: 5 | x=457.4: Gay | x=507.8: 6 | x=514.5: Bisexual
+Y= 696.8 (topY= 311.2): x=525.0: : | x= 56.5: ATENCIÓN | x= 78.1: PREHOSPITALARIA: | x=148.6: 1 | x=154.2: Sí | x=164.7: 2 | x=170.4: No | x=195.3: TIEMPO | x=211.2: DE | x=217.4: TRASLADO: | x=271.6: : | x=336.2: FECHA | x=349.9: Y | x=353.7: HORA | x=365.6: DE | x=371.5: INGRESO:
+Y= 688.8 (topY= 319.2): x=256.9: HH | x=280.6: MM | x=419.7: Día | x=443.7: Mes | x=477.0: Año | x=510.5: HH | x=534.2: MM
+Y= 676.5 (topY= 331.5): x= 56.5: TIPO | x= 66.7: DE | x= 72.9: URGENCIA: | x=115.9: 1 | x=122.5: Urgencia | x=139.3: calificada | x=181.2: 2 | x=187.0: Urgencia | x=203.8: No | x=209.7: calificada
+Y= 662.0 (topY= 346.0): x=496.5: e | x=499.4: choque | x=533.0: 3 | x=539.7: Sin | x=546.2: cama | x=475.2: 2 | x=482.1: Cama | x=493.3: d | x= 56.5: MOTIVO | x= 73.2: DE | x= 79.6: ATENCIÓN: | x=124.1: 1 | x=130.5: Accidente, | x=149.5: envenenamiento | x=178.8: y | x=181.6: violencia | x=230.2: 2 | x=237.1: Médica | x=271.0: 3 | x=277.0: Gineco | x=289.2: - | x=290.7: obstétrica | x=328.1: 4 | x=334.9: Pediátrica | x=366.7: TIPO | x=376.9: DE | x=383.1: CAMA: | x=409.9: 1 | x=416.7: Cama | x=427.8: de | x=433.1: observación
+Y= 644.4 (topY= 363.6): x= 56.5: TRASLADO | x= 78.0: TRANSITORIO: | x=132.3: 1 | x=136.9: Sí | x=146.1: 2 | x=151.2: No | x=160.5: NOMBRE | x=180.9: DE | x=187.8: LA | x=194.8: UNIDAD: | x=403.6: CLUES:
+Y= 629.7 (topY= 378.3): x=239.0: : | x= 56.5: FECHA | x= 70.2: Y | x= 74.1: HORA | x= 85.9: DE | x= 91.9: ALTA:
+Y= 621.7 (topY= 386.3): x=134.1: Día | x=158.1: Mes | x=191.2: Año | x=224.2: HH | x=248.0: MM
+Y= 609.0 (topY= 399.0): x=180.1: Consulta | x=196.3: externa | x= 56.5: ALTA | x= 67.8: POR | x= 76.9: (ENVIADO | x= 97.0: A): | x=124.1: 1 | x=130.8: Hospitalización | x=173.7: 2 | x=230.2: 3 | x=236.7: Traslado | x=253.2: a | x=256.4: otra | x=265.0: unidad | x=305.7: NOMBRE | x=323.7: DE | x=330.3: LA | x=336.8: UNIDAD | x=353.2: MÉDICA:
+Y= 603.3 (topY= 404.7): x= 49.7: ESTANCIA
+Y= 594.8 (topY= 413.2): x=304.0: CLUES:
+Y= 578.8 (topY= 429.2): x=124.1: 4 | x=130.9: Domicilio | x=164.9: 5 | x=171.7: Defunción | x=219.8: MINISTERIO | x=244.4: PÚBLICO: | x=287.3: 1 | x=293.9: Sí | x=303.4: 2 | x=309.2: No | x=328.0: FOLIO | x=340.8: DEL | x=349.4: CERTIFICADO:
+Y= 562.8 (topY= 445.2): x=124.1: 6 | x=130.9: Fuga | x=164.9: 7 | x=171.3: Voluntad | x=188.4: propia
+Y= 543.7 (topY= 464.3): x=401.6: 3 | x=408.2: No | x=413.9: estaba | x=426.9: embarazada | x=449.8: ni | x=454.3: en | x=459.8: puerperio | x= 56.5: MUJER | x= 70.6: EN | x= 76.9: EDAD | x= 88.1: FÉRTIL: | x=140.4: 1 | x=147.1: Embarazo | x=238.4: 2 | x=245.2: Puerperio | x=263.1: (de | x=269.7: 0 | x=272.8: a | x=275.9: 42 | x=281.0: días | x=288.8: después | x=303.4: del | x=309.9: evento | x=322.7: obstétrico)
+Y= 529.8 (topY= 478.2): x=138.1: SEMANAS | x=157.5: DE | x=163.8: GESTACIÓN:
+Y= 518.5 (topY= 489.5): x= 75.6: AFECCIÓN | x= 95.4: PRINCIPAL:
+Y= 514.5 (topY= 493.5): x=527.6: CÓDIGO | x=544.5: CIE
+Y= 497.0 (topY= 511.0): x= 64.3: A.P.
+Y= 470.2 (topY= 537.8): x=566.5: codificador
+Y= 454.4 (topY= 553.6): x=566.5: personal
+Y= 447.8 (topY= 560.2): x=566.5: del
+Y= 438.9 (topY= 569.1): x= 49.7: TRATADAS
+Y= 431.0 (topY= 577.0): x= 64.3: COMORBILIDADES | x=566.5: exclusivo
+Y= 423.8 (topY= 584.2): x=566.5: uso
+Y= 414.9 (topY= 593.1): x=566.5: Para
+Y= 411.5 (topY= 596.5): x= 49.7: AFECCIONES
+Y= 380.8 (topY= 627.2): x=237.2: Sí | x=254.3: 2
+Y= 368.0 (topY= 640.0): x=230.4: 1
+Y= 357.3 (topY= 650.7): x=424.0: Cédula:
+Y= 336.6 (topY= 671.4): x=225.5: Nombre(s) | x=298.6: Primer Apellido | x=366.2: Segundo | x=382.1: Apellido | x=483.0: CURP
+Y= 329.4 (topY= 678.5): x=424.0: Cédula:
+Y= 308.7 (topY= 699.3): x=225.5: Nombre(s) | x=298.6: Primer Apellido | x=366.2: Segundo | x=382.1: Apellido | x=483.0: CURP
+Y= 301.5 (topY= 706.5): x=424.0: Cédula:
+Y= 292.6 (topY= 715.4): x= 49.7: INTERCONSULTA
+Y= 280.9 (topY= 727.1): x=225.5: Nombre(s) | x=298.6: Primer Apellido | x=366.2: Segundo | x=382.1: Apellido | x=483.0: CURP
+Y= 276.3 (topY= 731.7): x= 64.3: NINGUNA
+Y= 258.5 (topY= 749.5): x=520.1: CÓDIGO | x=536.4: CIE | x=543.9: - | x=546.3: 9 | x=549.9: MC
+Y= 229.2 (topY= 778.8): x=566.5: personal
+Y= 222.5 (topY= 785.5): x=566.5: del
+Y= 205.7 (topY= 802.3): x=566.5: exclusivo
+Y= 198.7 (topY= 809.3): x=566.5: uso | x= 49.7: PROCEDIMIENTOS
+Y= 189.9 (topY= 818.1): x=566.5: Para
+Y= 169.9 (topY= 838.1): x=120.1: Nombre | x=136.0: genérico | x=268.2: Presentación | x=366.2: CÓDIGO | x=382.6: DE | x=389.1: MEDICAMENTOS
+Y= 152.8 (topY= 855.2): x=528.6: Plan
+Y= 144.5 (topY= 863.5): x= 56.2: 3. | x=450.3: 1 | x=457.0: Sintomático | x=507.1: A | x=523.7: B | x=556.3: C
+Y= 131.1 (topY= 876.9): x=450.2: 2 | x=456.9: Con | x=464.9: antibiótico
+Y= 124.3 (topY= 883.7): x= 49.7: SUMINISTRADOS
+Y= 115.0 (topY= 893.0): x=450.2: 3 | x=455.9: Antivirales
+Y=  88.3 (topY= 919.7): x=355.6: Para | x=364.5: uso | x=371.5: exclusivo | x=388.5: del | x=395.1: personal | x=410.9: codificador | x= 49.7: MEDICAMENTOS
+Y=  64.2 (topY= 943.8): x= 56.2: NOMBRE:
+Y=  55.8 (topY= 952.2): x=143.9: Nombre(s) | x=310.9: Primer Apellido | x=472.3: Segundo | x=488.3: Apellido
+Y=  43.9 (topY= 964.1): x= 56.2: C.U.R.P.: | x=415.3: FIRMA:
+Y=  31.4 (topY= 976.6): x=540.3: SEUL | x=554.4: - | x=558.3: 2026

@@ -1,0 +1,11 @@
+{
+  "name": "expediente-clinico",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "./start.sh",
+    "start:backend": "cd backend && node -e 'require(\"./dist/index.js\")'",
+    "start:frontend": "cd frontend && npm run dev",
+    "dev": "./start.sh"
+  }
+}
