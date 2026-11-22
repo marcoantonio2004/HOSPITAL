@@ -366,7 +366,7 @@ export default function Login() {
         </div>
 
         <div className="bottom-bar-right">
-          <span>Hospital General San Felipe del Progreso &nbsp;|&nbsp; Sistema de Expedientes Clínicos &nbsp;|&nbsp; v1.0</span>
+          <span>Hospital General San Felipe del Progreso &nbsp;|&nbsp; Sistema de Expedientes Clínicos</span>
         </div>
       </footer>
 
