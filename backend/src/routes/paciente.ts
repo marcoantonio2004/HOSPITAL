@@ -4,6 +4,7 @@ import pool from '../config/database';
 import { authenticate, authorize } from '../middleware/auth';
 import { logAudit } from '../middleware/audit';
 import { AuthRequest } from '../types';
+import { desbloquearIntentosUsuario } from './auth';
 
 const router = Router();
 
@@ -2095,6 +2096,9 @@ router.post('/catalogo/personal-medico/:id/restablecer-password', authorize('adm
     const usernameNorm = username.trim().toLowerCase();
 
     const passwordHash = await bcrypt.hash(usernameNorm, 10);
+
+    // Desbloquear intentos fallidos si la cuenta estaba en penalización
+    desbloquearIntentosUsuario(usernameNorm);
 
     await pool.query(
       `UPDATE usuarios 

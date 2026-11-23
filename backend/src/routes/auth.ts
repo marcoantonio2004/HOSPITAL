@@ -13,18 +13,63 @@ const router = Router();
 const JWT_SECRET = process.env.JWT_SECRET || 'expediente_clinico_secret';
 const JWT_EXPIRES = process.env.JWT_EXPIRES_IN || '8h';
 
-const loginLimiter = rateLimit({
-  windowMs: 1 * 60 * 1000, // 1 minute
-  max: 5, // 5 requests per IP
-  message: { success: false, error: 'Demasiados intentos de inicio de sesión' },
+// Configuración de política de seguridad hospitalaria
+const MAX_INTENTOS_CONSECUTIVOS = 5;
+const TIEMPO_BLOQUEO_MINUTOS = 5;
+const TIEMPO_BLOQUEO_MS = TIEMPO_BLOQUEO_MINUTOS * 60 * 1000;
+
+interface IntentoLogin {
+  fallos: number;
+  bloqueadoHasta?: number;
+}
+
+// Registro en memoria de intentos fallidos agrupados por usuario (en minúsculas).
+// Esto garantiza que el bloqueo aplique ÚNICAMENTE a la cuenta infractora y NO a toda la IP/hospital.
+const intentosPorUsuario = new Map<string, IntentoLogin>();
+
+export function desbloquearIntentosUsuario(username: string) {
+  if (!username) return;
+  intentosPorUsuario.delete(username.trim().toLowerCase());
+}
+
+// Limitador de red general contra ataques automatizados de denegación (DDoS) por IP.
+// Umbral amplio (60 peticiones/minuto) para NO interferir con el tráfico normal de los consultorios del hospital.
+const networkLimiter = rateLimit({
+  windowMs: 1 * 60 * 1000,
+  max: 60,
+  skipSuccessfulRequests: true,
+  message: { success: false, error: 'Demasiadas solicitudes al servidor desde esta red. Por favor espere un momento.' },
+  standardHeaders: true,
+  legacyHeaders: false,
 });
 
 // POST /api/auth/login
-router.post('/login', loginLimiter, async (req: Request, res: Response) => {
+router.post('/login', networkLimiter, async (req: Request, res: Response) => {
   const { username, password } = req.body;
 
   if (!username || !password) {
     return res.status(400).json({ success: false, error: 'Usuario y contraseña son requeridos' });
+  }
+
+  const userKey = String(username).trim().toLowerCase();
+
+  // 1. Verificar si este usuario específico se encuentra temporalmente bloqueado
+  const registro = intentosPorUsuario.get(userKey);
+  if (registro?.bloqueadoHasta) {
+    if (Date.now() < registro.bloqueadoHasta) {
+      const segRestantes = Math.ceil((registro.bloqueadoHasta - Date.now()) / 1000);
+      const minRestantes = Math.ceil(segRestantes / 60);
+      return res.status(429).json({
+        success: false,
+        error: `La cuenta "${userKey}" está bloqueada temporalmente por seguridad tras 5 intentos fallidos. Intente de nuevo en ${minRestantes} minuto(s) o solicite el restablecimiento al administrador.`,
+        bloqueado: true,
+        usuarioBloqueado: userKey,
+        tiempoRestanteSegundos: segRestantes,
+      });
+    } else {
+      // El tiempo de penalización concluyó: se restablece el contador
+      intentosPorUsuario.delete(userKey);
+    }
   }
 
   try {
@@ -33,8 +78,8 @@ router.post('/login', loginLimiter, async (req: Request, res: Response) => {
        FROM usuarios u
        JOIN roles r ON u.id_rol = r.id_rol
        LEFT JOIN personal_medico pm ON u.id_medico = pm.id_medico
-       WHERE u.username = $1 AND u.activo = TRUE`,
-      [username]
+       WHERE LOWER(u.username) = $1 AND u.activo = TRUE`,
+      [userKey]
     );
 
     let user = null;
@@ -49,8 +94,55 @@ router.post('/login', loginLimiter, async (req: Request, res: Response) => {
     }
 
     if (!user || !validPassword) {
-      return res.status(401).json({ success: false, error: 'Credenciales inválidas' });
+      const fallosPrevios = (intentosPorUsuario.get(userKey)?.fallos) || 0;
+      const nuevosFallos = fallosPrevios + 1;
+
+      if (nuevosFallos >= MAX_INTENTOS_CONSECUTIVOS) {
+        intentosPorUsuario.set(userKey, {
+          fallos: nuevosFallos,
+          bloqueadoHasta: Date.now() + TIEMPO_BLOQUEO_MS,
+        });
+
+        await logAudit(
+          { user: null, ip: req.ip } as any,
+          'LOGIN_BLOQUEO_USUARIO',
+          'usuarios',
+          user?.id_usuario || null,
+          null,
+          { username: userKey, intentos: nuevosFallos, motivo: 'Bloqueo temporal por 5 intentos fallidos consecutivos de contraseña' }
+        );
+
+        return res.status(429).json({
+          success: false,
+          error: `Ha superado el límite de 5 intentos fallidos para el usuario "${userKey}". Por seguridad, la cuenta ha sido bloqueada temporalmente por 5 minutos.`,
+          bloqueado: true,
+          usuarioBloqueado: userKey,
+        });
+      } else {
+        intentosPorUsuario.set(userKey, {
+          fallos: nuevosFallos,
+        });
+        const restantes = MAX_INTENTOS_CONSECUTIVOS - nuevosFallos;
+
+        await logAudit(
+          { user: null, ip: req.ip } as any,
+          'LOGIN_FALLIDO',
+          'usuarios',
+          user?.id_usuario || null,
+          null,
+          { username: userKey, intento: nuevosFallos, intentosRestantes: restantes }
+        );
+
+        return res.status(401).json({
+          success: false,
+          error: `Credenciales inválidas para el usuario "${userKey}". Le quedan ${restantes} intento(s) antes del bloqueo temporal de la cuenta.`,
+          intentosRestantes: restantes,
+        });
+      }
     }
+
+    // 2. Inicio de sesión exitoso: reiniciar contador de fallos de ESTE usuario
+    intentosPorUsuario.delete(userKey);
 
     // Actualizar último acceso
     await pool.query('UPDATE usuarios SET ultimo_acceso = NOW() WHERE id_usuario = $1', [user.id_usuario]);
