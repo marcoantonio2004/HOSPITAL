@@ -253,16 +253,16 @@ export default function Pacientes() {
         <div>
           <h1 style={{ display: 'flex', alignItems: 'center', gap: 8, margin: 0 }}>
             <Users size={26} color="#0f3f2f" />
-            {userRole === 'admision' && 'Padrón de beneficiarios y registro'}
+            {userRole === 'admision' && 'Padrón de pacientes y registro'}
             {userRole === 'medico' && 'Padrón y expedientes de pacientes'}
             {userRole === 'enfermeria' && 'Padrón de pacientes en servicio'}
-            {userRole === 'admin' && 'Padrón de beneficiarios'}
+            {userRole === 'admin' && 'Padrón de pacientes'}
           </h1>
           <p style={{ color: 'var(--text-light)', margin: '4px 0 0', fontSize: 13 }}>
-            {userRole === 'admision' && 'Padrón de derechohabientes, admisión y alta administrativa de pacientes'}
+            {userRole === 'admision' && 'Padrón de pacientes, admisión y alta administrativa'}
             {userRole === 'medico' && 'Consulta de historiales clínicos, antecedentes y notas médicas NOM-004'}
             {userRole === 'enfermeria' && 'Consulta de pacientes para registro de signos vitales e indicaciones'}
-            {userRole === 'admin' && 'Registro general de beneficiarios y expedientes clínicos del hospital'}
+            {userRole === 'admin' && 'Registro general de pacientes y expedientes clínicos del hospital'}
           </p>
         </div>
       </div>
@@ -299,7 +299,7 @@ export default function Pacientes() {
               </span>
             </div>
             <p style={{ margin: '4px 0 0', fontSize: 12, color: 'var(--text-light)' }}>
-              Beneficiarios registrados en el sistema con acceso directo a su expediente clínico digital.
+              Pacientes registrados en el sistema con acceso directo a su expediente clínico digital.
             </p>
           </div>
 
@@ -441,7 +441,7 @@ export default function Pacientes() {
         {loading ? (
           <div className="loading">
             <div className="spinner" />
-            <p>Cargando padrón de beneficiarios...</p>
+            <p>Cargando padrón de pacientes...</p>
           </div>
         ) : pacientesFiltrados.length > 0 ? (
           <>
@@ -675,7 +675,7 @@ export default function Pacientes() {
             <div style={{ fontSize: 12, color: 'var(--text-light)', marginBottom: 14 }}>
               {buscar
                 ? `No se encontraron resultados para "${buscar}".`
-                : 'Puedes registrar un nuevo beneficiario desde Admisión.'}
+                : 'Puedes registrar un nuevo paciente desde Admisión.'}
             </div>
             <Link
               to="/pacientes/nuevo"
