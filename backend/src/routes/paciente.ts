@@ -1930,10 +1930,10 @@ router.post('/catalogo/personal-medico', authorize('admin'), async (req: AuthReq
           error: 'La contraseña inicial debe tener un mínimo de 8 caracteres.',
         });
       }
-      if (!/[A-Z0-9]/.test(cleanPass)) {
+      if (!/[A-Z]/.test(cleanPass) || !/[a-z]/.test(cleanPass) || !/[0-9]/.test(cleanPass)) {
         return res.status(400).json({
           success: false,
-          error: 'La contraseña debe incluir al menos un número o una letra mayúscula.',
+          error: 'La contraseña debe cumplir las condiciones de seguridad: mínimo 8 caracteres, al menos una mayúscula, una minúscula y un número.',
         });
       }
     }
@@ -2043,10 +2043,10 @@ router.put('/catalogo/personal-medico/:id', authorize('admin'), async (req: Auth
           error: 'La nueva contraseña debe tener un mínimo de 8 caracteres.',
         });
       }
-      if (!/[A-Z0-9]/.test(cleanPass)) {
+      if (!/[A-Z]/.test(cleanPass) || !/[a-z]/.test(cleanPass) || !/[0-9]/.test(cleanPass)) {
         return res.status(400).json({
           success: false,
-          error: 'La nueva contraseña debe incluir al menos un número o una letra mayúscula.',
+          error: 'La nueva contraseña debe cumplir las condiciones de seguridad: mínimo 8 caracteres, al menos una mayúscula, una minúscula y un número.',
         });
       }
 

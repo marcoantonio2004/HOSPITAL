@@ -4,7 +4,8 @@ import { useAuth } from '../../context/AuthContext';
 import {
   UserCheck, UserPlus, Search, Stethoscope,
   Award, CheckCircle2, XCircle, RefreshCw, Key, AlertCircle, Edit2,
-  Trash2, AlertTriangle, ShieldCheck, RotateCcw, KeyRound, X
+  Trash2, AlertTriangle, ShieldCheck, RotateCcw, KeyRound, X,
+  Eye, EyeOff
 } from 'lucide-react';
 
 interface Medico {
@@ -93,6 +94,7 @@ export default function PersonalMedico() {
   });
 
   const [saving, setSaving] = useState(false);
+  const [showPassword, setShowPassword] = useState(false);
   const [eliminando, setEliminando] = useState(false);
   const [restableciendo, setRestableciendo] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
@@ -178,11 +180,13 @@ export default function PersonalMedico() {
     });
     setErrorMsg('');
     setSuccessMsg('');
+    setShowPassword(false);
     setModalOpen(true);
   }
 
   function abrirModalEditar(m: Medico) {
     setModalEditar(m);
+    setShowPassword(false);
     setForm({
       nombre: m.nombre,
       apellido_paterno: m.apellido_paterno,
@@ -225,8 +229,16 @@ export default function PersonalMedico() {
         setErrorMsg('La contraseña debe tener un mínimo de 8 caracteres.');
         return;
       }
-      if (!/[A-Z0-9]/.test(cleanPass)) {
-        setErrorMsg('La contraseña debe incluir al menos un número o una letra mayúscula.');
+      if (!/[A-Z]/.test(cleanPass)) {
+        setErrorMsg('La contraseña debe incluir al menos una letra mayúscula (A-Z).');
+        return;
+      }
+      if (!/[a-z]/.test(cleanPass)) {
+        setErrorMsg('La contraseña debe incluir al menos una letra minúscula (a-z).');
+        return;
+      }
+      if (!/[0-9]/.test(cleanPass)) {
+        setErrorMsg('La contraseña debe incluir al menos un número (0-9).');
         return;
       }
     }
@@ -1124,10 +1136,14 @@ export default function PersonalMedico() {
                         <label style={{ fontSize: 12, fontWeight: 600 }}>
                           {modalEditar ? 'Nueva contraseña (opcional)' : 'Contraseña *'}
                         </label>
-                        {modalEditar?.username && (
+                        {form.username?.trim() && (
                           <button
                             type="button"
-                            onClick={() => setForm({ ...form, password: form.username })}
+                            onClick={() => {
+                              const u = form.username.trim();
+                              const passSugerida = `${u.charAt(0).toUpperCase()}${u.slice(1)}123`;
+                              setForm({ ...form, password: passSugerida });
+                            }}
                             style={{
                               background: 'none',
                               border: 'none',
@@ -1140,19 +1156,101 @@ export default function PersonalMedico() {
                               gap: 3,
                               padding: 0
                             }}
-                            title="Asignar su propio nombre de usuario como contraseña"
+                            title="Generar contraseña que cumple con todas las condiciones de seguridad"
                           >
-                            <RotateCcw size={11} /> Usar usuario "@{form.username}"
+                            <RotateCcw size={11} /> Sugerir clave segura
                           </button>
                         )}
                       </div>
-                      <input
-                        type="password"
-                        required={!modalEditar && form.crearUsuario}
-                        value={form.password}
-                        onChange={(e) => setForm({ ...form, password: e.target.value })}
-                        placeholder={modalEditar ? 'Dejar en blanco para conservar' : 'Mínimo 6 caracteres'}
-                      />
+                      <div style={{ position: 'relative' }}>
+                        <input
+                          type={showPassword ? 'text' : 'password'}
+                          required={!modalEditar && form.crearUsuario}
+                          value={form.password}
+                          onChange={(e) => setForm({ ...form, password: e.target.value })}
+                          placeholder={modalEditar ? 'Dejar en blanco para conservar' : 'Mínimo 8 caracteres (A-Z, a-z, 0-9)'}
+                          style={{ paddingRight: 36 }}
+                        />
+                        <button
+                          type="button"
+                          onClick={() => setShowPassword(!showPassword)}
+                          style={{
+                            position: 'absolute',
+                            right: 8,
+                            top: '50%',
+                            transform: 'translateY(-50%)',
+                            background: 'none',
+                            border: 'none',
+                            cursor: 'pointer',
+                            color: '#64748b',
+                            display: 'flex',
+                            alignItems: 'center',
+                            padding: 4
+                          }}
+                          tabIndex={-1}
+                          title={showPassword ? 'Ocultar contraseña' : 'Ver contraseña'}
+                        >
+                          {showPassword ? <EyeOff size={16} /> : <Eye size={16} />}
+                        </button>
+                      </div>
+
+                      {/* Indicador interactivo de condiciones de seguridad */}
+                      {form.password ? (
+                        <div style={{
+                          marginTop: 6,
+                          padding: '7px 10px',
+                          background: '#f8fafc',
+                          borderRadius: 6,
+                          border: '1px solid #e2e8f0',
+                          fontSize: 11
+                        }}>
+                          <div style={{ fontWeight: 600, color: '#334155', marginBottom: 4, display: 'flex', alignItems: 'center', gap: 4 }}>
+                            <ShieldCheck size={13} color="#0f3f2f" /> Condiciones de seguridad obligatorias:
+                          </div>
+                          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '3px 8px' }}>
+                            <span style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: 4,
+                              color: form.password.length >= 8 ? '#15803d' : '#94a3b8',
+                              fontWeight: form.password.length >= 8 ? 600 : 400
+                            }}>
+                              <CheckCircle2 size={12} color={form.password.length >= 8 ? '#16a34a' : '#cbd5e1'} /> Mínimo 8 caracteres
+                            </span>
+                            <span style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: 4,
+                              color: /[A-Z]/.test(form.password) ? '#15803d' : '#94a3b8',
+                              fontWeight: /[A-Z]/.test(form.password) ? 600 : 400
+                            }}>
+                              <CheckCircle2 size={12} color={/[A-Z]/.test(form.password) ? '#16a34a' : '#cbd5e1'} /> Mayúscula (A-Z)
+                            </span>
+                            <span style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: 4,
+                              color: /[a-z]/.test(form.password) ? '#15803d' : '#94a3b8',
+                              fontWeight: /[a-z]/.test(form.password) ? 600 : 400
+                            }}>
+                              <CheckCircle2 size={12} color={/[a-z]/.test(form.password) ? '#16a34a' : '#cbd5e1'} /> Minúscula (a-z)
+                            </span>
+                            <span style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: 4,
+                              color: /[0-9]/.test(form.password) ? '#15803d' : '#94a3b8',
+                              fontWeight: /[0-9]/.test(form.password) ? 600 : 400
+                            }}>
+                              <CheckCircle2 size={12} color={/[0-9]/.test(form.password) ? '#16a34a' : '#cbd5e1'} /> Número (0-9)
+                            </span>
+                          </div>
+                        </div>
+                      ) : (
+                        <span style={{ fontSize: 11, color: '#64748b', marginTop: 4, display: 'block' }}>
+                          Obligatorio: Mínimo 8 caracteres, al menos una mayúscula, una minúscula y un número.
+                        </span>
+                      )}
                     </div>
                   </div>
                 )}

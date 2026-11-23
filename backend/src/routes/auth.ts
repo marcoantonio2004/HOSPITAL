@@ -315,10 +315,10 @@ router.put('/mis-credenciales', authenticate, async (req: AuthRequest, res: Resp
         error: 'La nueva contraseña debe tener un mínimo de 8 caracteres.',
       });
     }
-    if (!/[A-Z0-9]/.test(cleanPass)) {
+    if (!/[A-Z]/.test(cleanPass) || !/[a-z]/.test(cleanPass) || !/[0-9]/.test(cleanPass)) {
       return res.status(400).json({
         success: false,
-        error: 'La nueva contraseña debe incluir al menos un número o una letra mayúscula.',
+        error: 'La nueva contraseña debe cumplir las condiciones de seguridad: mínimo 8 caracteres, al menos una mayúscula, una minúscula y un número.',
       });
     }
 
@@ -414,10 +414,10 @@ router.post('/cambiar-password-obligatorio', authenticate, async (req: AuthReque
     });
   }
 
-  if (!/[A-Z0-9]/.test(cleanPass)) {
+  if (!/[A-Z]/.test(cleanPass) || !/[a-z]/.test(cleanPass) || !/[0-9]/.test(cleanPass)) {
     return res.status(400).json({
       success: false,
-      error: 'La nueva contraseña debe incluir al menos un número o una letra mayúscula.',
+      error: 'La nueva contraseña debe cumplir las condiciones de seguridad: mínimo 8 caracteres, al menos una mayúscula, una minúscula y un número.',
     });
   }
 
