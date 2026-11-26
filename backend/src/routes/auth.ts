@@ -14,11 +14,12 @@ const JWT_SECRET = process.env.JWT_SECRET || 'expediente_clinico_secret';
 const JWT_EXPIRES = process.env.JWT_EXPIRES_IN || '8h';
 
 function getCookieOptions() {
-  const isProd = process.env.NODE_ENV === 'production';
+  const isProd = process.env.NODE_ENV === 'production' || Boolean(process.env.VERCEL);
+  const isCrossOrigin = Boolean(process.env.FRONTEND_URL && !process.env.VERCEL);
   return {
     httpOnly: true,
     secure: isProd,
-    sameSite: (isProd ? 'none' : 'lax') as 'none' | 'lax',
+    sameSite: (isProd && isCrossOrigin ? 'none' : 'lax') as 'none' | 'lax',
     maxAge: 8 * 60 * 60 * 1000, // 8 horas
   };
 }

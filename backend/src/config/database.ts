@@ -3,14 +3,15 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const isProduction = process.env.NODE_ENV === 'production';
+const isProduction = process.env.NODE_ENV === 'production' || Boolean(process.env.VERCEL);
 const useSSL = isProduction || process.env.DB_SSL === 'true' || Boolean(process.env.DATABASE_URL);
+const maxConnections = process.env.VERCEL ? 3 : 20;
 
 const poolConfig: PoolConfig = process.env.DATABASE_URL
   ? {
       connectionString: process.env.DATABASE_URL,
       ssl: { rejectUnauthorized: false },
-      max: 20,
+      max: maxConnections,
       idleTimeoutMillis: 30000,
       connectionTimeoutMillis: 10000,
     }
@@ -21,7 +22,7 @@ const poolConfig: PoolConfig = process.env.DATABASE_URL
       user: process.env.DB_USER || process.env.USER || 'marcoantonio',
       password: process.env.DB_PASSWORD || '',
       ssl: useSSL ? { rejectUnauthorized: false } : undefined,
-      max: 20,
+      max: maxConnections,
       idleTimeoutMillis: 30000,
       connectionTimeoutMillis: 5000,
     };

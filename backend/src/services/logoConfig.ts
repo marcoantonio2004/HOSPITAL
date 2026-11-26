@@ -64,15 +64,33 @@ export class LogoConfigService {
   private static cachedLogoCentralBuffer: Buffer | null = null;
   private static cachedLogoCentral2Buffer: Buffer | null = null;
   private static isInitialized = false;
+  private static initPromise: Promise<void> | null = null;
 
   public static isReady(): boolean {
     return this.isInitialized;
+  }
+
+  public static async ensureInitialized(): Promise<void> {
+    if (this.isInitialized) return;
+    if (!this.initPromise) {
+      this.initPromise = this.init().finally(() => {
+        this.initPromise = null;
+      });
+    }
+    await this.initPromise;
   }
 
   /**
    * Directorio persistente para almacenar los archivos de imagen cargados
    */
   public static getUploadsDir(): string {
+    if (process.env.VERCEL) {
+      const tmpDir = '/tmp/expediente-logos';
+      if (!fs.existsSync(tmpDir)) {
+        fs.mkdirSync(tmpDir, { recursive: true });
+      }
+      return tmpDir;
+    }
     const candidates = [
       path.resolve(__dirname, '../../uploads/logos'),
       path.resolve(__dirname, '../uploads/logos'),

@@ -36,10 +36,14 @@ const allowedOrigins = (process.env.FRONTEND_URL || 'http://localhost:5173')
 
 app.use(cors({
   origin: (origin, callback) => {
-    // Permitir peticiones sin origin (curl, healthchecks, apps locales) o que coincidan con los orígenes autorizados
+    // Permitir peticiones sin origin (curl, healthchecks, mismo origen)
     if (!origin) return callback(null, true);
     const cleanOrigin = origin.replace(/\/+$/, '');
     if (allowedOrigins.includes(cleanOrigin)) {
+      return callback(null, true);
+    }
+    // En Vercel, permitir el dominio asignado por Vercel (*.vercel.app)
+    if (process.env.VERCEL && cleanOrigin.endsWith('.vercel.app')) {
       return callback(null, true);
     }
     return callback(new Error(`Origen no permitido por CORS: ${origin}`));
@@ -49,8 +53,16 @@ app.use(cors({
 app.use(express.json({ limit: '10mb' }));
 app.use(cookieParser());
 
-// Inicializar configuración de logos y membretes
-LogoConfigService.init();
+// Inicializar configuración de logos y membretes (compatible con serverless)
+if (!process.env.VERCEL) {
+  LogoConfigService.init();
+}
+app.use(async (req, _res, next) => {
+  if (req.path !== '/api/health') {
+    await LogoConfigService.ensureInitialized();
+  }
+  next();
+});
 
 // ============================================================
 // API Routes
@@ -99,10 +111,14 @@ app.use((err: any, req: express.Request, res: express.Response, next: express.Ne
 });
 
 // ============================================================
-// Start
+// Start (solo en servidor local/dedicado; en Vercel se exporta como función serverless)
 // ============================================================
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`🏥 Expediente Clínico Digital — Backend corriendo en puerto ${PORT}`);
-  console.log(`   LAN: http://0.0.0.0:${PORT}`);
-  console.log(`   API: http://localhost:${PORT}/api`);
-});
+if (!process.env.VERCEL) {
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log(`🏥 Expediente Clínico Digital — Backend corriendo en puerto ${PORT}`);
+    console.log(`   LAN: http://0.0.0.0:${PORT}`);
+    console.log(`   API: http://localhost:${PORT}/api`);
+  });
+}
+
+export default app;
