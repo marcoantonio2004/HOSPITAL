@@ -35,3 +35,6 @@ yarn-error.log*
 *.tmp
 video_test/
 scratch/
+
+# Respaldos y dumps SQL locales con datos de prueba
+database/supabase_deploy.sql

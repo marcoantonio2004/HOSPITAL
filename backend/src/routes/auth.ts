@@ -13,6 +13,16 @@ const router = Router();
 const JWT_SECRET = process.env.JWT_SECRET || 'expediente_clinico_secret';
 const JWT_EXPIRES = process.env.JWT_EXPIRES_IN || '8h';
 
+function getCookieOptions() {
+  const isProd = process.env.NODE_ENV === 'production';
+  return {
+    httpOnly: true,
+    secure: isProd,
+    sameSite: (isProd ? 'none' : 'lax') as 'none' | 'lax',
+    maxAge: 8 * 60 * 60 * 1000, // 8 horas
+  };
+}
+
 // Configuración de política de seguridad hospitalaria
 const MAX_INTENTOS_CONSECUTIVOS = 5;
 const TIEMPO_BLOQUEO_MINUTOS = 5;
@@ -158,12 +168,7 @@ router.post('/login', networkLimiter, async (req: Request, res: Response) => {
 
     const token = jwt.sign(tokenPayload, JWT_SECRET, { expiresIn: JWT_EXPIRES } as any);
 
-    res.cookie('token', token, {
-      httpOnly: true,
-      secure: process.env.NODE_ENV === 'production',
-      sameSite: 'lax',
-      maxAge: 8 * 60 * 60 * 1000, // 8 horas
-    });
+    res.cookie('token', token, getCookieOptions());
 
     // Add audit log for login
     await logAudit({ user: tokenPayload, ip: req.ip } as any, 'LOGIN', 'usuarios', user.id_usuario, null, null);
@@ -189,7 +194,8 @@ router.post('/login', networkLimiter, async (req: Request, res: Response) => {
 
 // POST /api/auth/logout
 router.post('/logout', authenticate, async (req: AuthRequest, res: Response) => {
-  res.clearCookie('token');
+  const { maxAge: _maxAge, ...clearOpts } = getCookieOptions();
+  res.clearCookie('token', clearOpts);
   if (req.user) {
     await logAudit(req, 'LOGOUT', 'usuarios', req.user.id_usuario, null, null);
   }
@@ -433,12 +439,7 @@ router.put('/mis-credenciales', authenticate, async (req: AuthRequest, res: Resp
 
     const token = jwt.sign(tokenPayload, JWT_SECRET, { expiresIn: JWT_EXPIRES } as any);
 
-    res.cookie('token', token, {
-      httpOnly: true,
-      secure: process.env.NODE_ENV === 'production',
-      sameSite: 'lax',
-      maxAge: 8 * 60 * 60 * 1000,
-    });
+    res.cookie('token', token, getCookieOptions());
 
     await logAudit(
       req,
@@ -548,12 +549,7 @@ router.post('/cambiar-password-obligatorio', authenticate, async (req: AuthReque
     };
 
     const token = jwt.sign(tokenPayload, JWT_SECRET, { expiresIn: JWT_EXPIRES } as any);
-    res.cookie('token', token, {
-      httpOnly: true,
-      secure: process.env.NODE_ENV === 'production',
-      sameSite: 'lax',
-      maxAge: 8 * 60 * 60 * 1000,
-    });
+    res.cookie('token', token, getCookieOptions());
 
     await logAudit(req, 'UPDATE_PASSWORD_MANDATORY', 'usuarios', userId, null, { obligatorio: true });
 

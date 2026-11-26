@@ -3,8 +3,10 @@ dotenv.config();
 
 import express from 'express';
 import cors from 'cors';
+import helmet from 'helmet';
 import cookieParser from 'cookie-parser';
 import path from 'path';
+import fs from 'fs';
 
 import authRoutes from './routes/auth';
 import pacienteRoutes from './routes/paciente';
@@ -16,11 +18,32 @@ import { LogoConfigService } from './services/logoConfig';
 const app = express();
 const PORT = parseInt(process.env.PORT || '3000');
 
+// Confiar en proxy inverso en producción (Render / Vercel) para IP real y cookies HTTPS
+app.set('trust proxy', 1);
+
 // ============================================================
 // Middleware global
 // ============================================================
+app.use(helmet({
+  contentSecurityPolicy: false,
+  crossOriginResourcePolicy: { policy: 'cross-origin' },
+}));
+
+const allowedOrigins = (process.env.FRONTEND_URL || 'http://localhost:5173')
+  .split(',')
+  .map((url) => url.trim().replace(/\/+$/, ''))
+  .filter(Boolean);
+
 app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+  origin: (origin, callback) => {
+    // Permitir peticiones sin origin (curl, healthchecks, apps locales) o que coincidan con los orígenes autorizados
+    if (!origin) return callback(null, true);
+    const cleanOrigin = origin.replace(/\/+$/, '');
+    if (allowedOrigins.includes(cleanOrigin)) {
+      return callback(null, true);
+    }
+    return callback(new Error(`Origen no permitido por CORS: ${origin}`));
+  },
   credentials: true,
 }));
 app.use(express.json({ limit: '10mb' }));
@@ -44,17 +67,27 @@ app.use('/api/configuracion', configuracionRoutes);
 app.use('/api/notificaciones', notificacionesRoutes);
 
 // ============================================================
-// Servir archivos estáticos del frontend (producción)
+// Servir archivos estáticos del frontend (si existen en despliegue monolítico)
 // ============================================================
 const frontendBuild = path.join(__dirname, '../../frontend/dist');
-app.use(express.static(frontendBuild));
+const frontendIndex = path.join(frontendBuild, 'index.html');
+if (fs.existsSync(frontendIndex)) {
+  app.use(express.static(frontendBuild));
+}
 
-// SPA fallback — cualquier ruta no API sirve index.html
+// SPA fallback — cualquier ruta no API sirve index.html o estado de la API
 app.get('*', (req, res) => {
   if (req.path.startsWith('/api')) {
     return res.status(404).json({ success: false, error: 'Ruta de API no encontrada' });
   }
-  res.sendFile(path.join(frontendBuild, 'index.html'));
+  if (fs.existsSync(frontendIndex)) {
+    return res.sendFile(frontendIndex);
+  }
+  return res.json({
+    success: true,
+    service: 'Expediente Clínico Digital API — Hospital General San Felipe del Progreso',
+    status: 'online',
+  });
 });
 
 // ============================================================
