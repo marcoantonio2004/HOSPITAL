@@ -1,6 +1,15 @@
 import pool from '../config/database';
 import { AuthRequest } from '../types';
 
+function cleanIp(ip: any): string {
+  if (!ip || typeof ip !== 'string') return '127.0.0.1';
+  const first = ip.split(',')[0].trim();
+  const clean = first.replace(/^::ffff:/, '');
+  if (/^(\d{1,3}\.){3}\d{1,3}$/.test(clean)) return clean;
+  if (clean.includes(':')) return clean;
+  return '127.0.0.1';
+}
+
 /**
  * Registra una acción en la bitácora de auditoría.
  */
@@ -23,7 +32,7 @@ export async function logAudit(
         id_registro,
         datosAnteriores ? JSON.stringify(datosAnteriores) : null,
         datosNuevos ? JSON.stringify(datosNuevos) : null,
-        req.ip,
+        cleanIp(req.ip),
       ]
     );
   } catch (err) {

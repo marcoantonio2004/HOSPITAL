@@ -56,6 +56,7 @@ const networkLimiter = rateLimit({
   message: { success: false, error: 'Demasiadas solicitudes al servidor desde esta red. Por favor espere un momento.' },
   standardHeaders: true,
   legacyHeaders: false,
+  validate: { trustProxy: false, xForwardedForHeader: false },
 });
 
 // POST /api/auth/login
@@ -191,9 +192,9 @@ router.post('/login', networkLimiter, async (req: Request, res: Response) => {
         },
       },
     });
-  } catch (err) {
+  } catch (err: any) {
     console.error('Error en login:', err);
-    res.status(500).json({ success: false, error: 'Error interno del servidor' });
+    res.status(500).json({ success: false, error: err?.message || 'Error interno del servidor' });
   }
 });
 
