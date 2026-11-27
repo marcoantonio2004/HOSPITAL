@@ -1,7 +1,11 @@
 import { Pool, PoolConfig } from 'pg';
-import dotenv from 'dotenv';
 
-dotenv.config();
+if (!process.env.VERCEL) {
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    require('dotenv').config();
+  } catch (_) {}
+}
 
 const isProduction = process.env.NODE_ENV === 'production' || Boolean(process.env.VERCEL);
 const useSSL = isProduction || process.env.DB_SSL === 'true' || Boolean(process.env.DATABASE_URL);

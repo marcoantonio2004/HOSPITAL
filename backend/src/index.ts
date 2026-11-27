@@ -1,5 +1,9 @@
-import dotenv from 'dotenv';
-dotenv.config();
+if (!process.env.VERCEL) {
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    require('dotenv').config();
+  } catch (_) {}
+}
 
 import express from 'express';
 import cors from 'cors';
@@ -125,7 +129,4 @@ if (!process.env.VERCEL) {
   });
 }
 
-// Exportación dual para compatibilidad universal en Vercel (CommonJS + ESM)
-module.exports = app;
-module.exports.default = app;
 export default app;

@@ -1,13 +1,17 @@
 import { Router, Request, Response } from 'express';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
-import dotenv from 'dotenv';
 import pool from '../config/database';
 import { authenticate, AuthRequest } from '../middleware/auth';
 import { logAudit } from '../middleware/audit';
 import rateLimit from 'express-rate-limit';
 
-dotenv.config();
+if (!process.env.VERCEL) {
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    require('dotenv').config();
+  } catch (_) {}
+}
 
 const router = Router();
 const JWT_SECRET = process.env.JWT_SECRET || 'expediente_clinico_secret';

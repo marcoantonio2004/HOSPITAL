@@ -1,11 +1,15 @@
 import { Response, NextFunction } from 'express';
 import jwt from 'jsonwebtoken';
-import dotenv from 'dotenv';
-import { JwtPayload, AuthRequest } from '../types';
-export { AuthRequest };
+import type { JwtPayload, AuthRequest } from '../types';
+export type { AuthRequest };
 import pool from '../config/database';
 
-dotenv.config();
+if (!process.env.VERCEL) {
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    require('dotenv').config();
+  } catch (_) {}
+}
 
 const JWT_SECRET = process.env.JWT_SECRET;
 if (!JWT_SECRET && process.env.NODE_ENV === 'production') {
