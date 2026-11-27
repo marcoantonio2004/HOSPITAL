@@ -1,3 +1,5 @@
+import './patchModulePaths';
+
 if (!process.env.VERCEL) {
   try {
     // eslint-disable-next-line @typescript-eslint/no-require-imports
