@@ -59,7 +59,11 @@ if (!process.env.VERCEL) {
 }
 app.use(async (req, _res, next) => {
   if (req.path !== '/api/health') {
-    await LogoConfigService.ensureInitialized();
+    try {
+      await LogoConfigService.ensureInitialized();
+    } catch (e) {
+      console.warn('LogoConfigService warning:', e);
+    }
   }
   next();
 });
@@ -121,4 +125,7 @@ if (!process.env.VERCEL) {
   });
 }
 
+// Exportación dual para compatibilidad universal en Vercel (CommonJS + ESM)
+module.exports = app;
+module.exports.default = app;
 export default app;
